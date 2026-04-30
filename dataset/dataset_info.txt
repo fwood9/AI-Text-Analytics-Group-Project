@@ -1,0 +1,10 @@
+total_samples: 6000
+successfully_generated: 6000
+attempts: 6022
+seed: 42
+train_count: 4200
+val_count: 900
+test_count: 900
+split_ratio: 70/15/15
+symbol_fields: sym_num_dice, sym_values, sym_colours, sym_sizes
+size_categories: {'small': (60, 69), 'medium': (70, 89), 'large': (90, 100)}

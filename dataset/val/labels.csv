@@ -1,0 +1,901 @@
+image,text,sym_num_dice,sym_values,sym_colours,sym_sizes
+sample_00005.png,"The image shows a medium blue die showing two, a small green die showing five and a small purple die showing three.",3,2 5 3,blue green purple,medium small small
+sample_00008.png,The image shows one medium peach die with value six.,1,6,peach,medium
+sample_00011.png,A small green die is shown with a value of four.,1,4,green,small
+sample_00016.png,The image shows one large blue die with value two.,1,2,blue,large
+sample_00029.png,There is one large peach die showing six.,1,6,peach,large
+sample_00030.png,"The image shows a large red die showing two, a medium blue die showing three and a medium blue die showing two.",3,2 3 2,red blue blue,large medium medium
+sample_00032.png,The scene contains a large peach die showing two and a small purple die showing six.,2,2 6,peach purple,large small
+sample_00033.png,There are a medium white die showing four and a small white die showing four in the scene.,2,4 4,white white,medium small
+sample_00036.png,This picture contains a medium purple die displaying two.,1,2,purple,medium
+sample_00038.png,A small white die is shown with a value of six.,1,6,white,small
+sample_00045.png,"The image shows a large purple die showing one, a large peach die showing one and a small red die showing five.",3,1 1 5,purple peach red,large large small
+sample_00060.png,The image shows one large peach die with value two.,1,2,peach,large
+sample_00069.png,"This picture contains a medium peach die showing two, a small blue die showing four and a large white die showing one.",3,2 4 1,peach blue white,medium small large
+sample_00075.png,A medium green die is shown with a value of four.,1,4,green,medium
+sample_00083.png,This picture contains a small green die showing five and a small purple die showing four.,2,5 4,green purple,small small
+sample_00085.png,There is one large yellow die showing one.,1,1,yellow,large
+sample_00107.png,The scene contains a small yellow die showing one and a medium red die showing four.,2,1 4,yellow red,small medium
+sample_00110.png,A large purple die is shown with a value of three.,1,3,purple,large
+sample_00113.png,There is one large peach die showing one.,1,1,peach,large
+sample_00114.png,A large blue die is shown with a value of six.,1,6,blue,large
+sample_00148.png,The image shows one small peach die with value two.,1,2,peach,small
+sample_00163.png,There are a large yellow die showing six and a medium yellow die showing three in the scene.,2,6 3,yellow yellow,large medium
+sample_00173.png,This picture contains a large yellow die showing six and a large purple die showing two.,2,6 2,yellow purple,large large
+sample_00185.png,"The image shows a medium peach die showing three, a large blue die showing six and a small yellow die showing five.",3,3 6 5,peach blue yellow,medium large small
+sample_00190.png,"This picture contains a small white die showing five, a large green die showing two and a medium white die showing four.",3,5 2 4,white green white,small large medium
+sample_00198.png,This picture contains a medium red die displaying two.,1,2,red,medium
+sample_00215.png,"The image shows a small yellow die showing one, a small red die showing three and a medium purple die showing two.",3,1 3 2,yellow red purple,small small medium
+sample_00219.png,There are a small blue die showing three and a medium red die showing two in the scene.,2,3 2,blue red,small medium
+sample_00222.png,"This picture contains a small white die showing two, a medium blue die showing four and a medium red die showing five.",3,2 4 5,white blue red,small medium medium
+sample_00239.png,"The scene contains a small white die showing four, a medium white die showing six and a medium green die showing four.",3,4 6 4,white white green,small medium medium
+sample_00250.png,There are a medium purple die showing three and a small peach die showing four in the scene.,2,3 4,purple peach,medium small
+sample_00256.png,"This picture contains a medium white die showing four, a medium blue die showing four and a medium blue die showing five.",3,4 4 5,white blue blue,medium medium medium
+sample_00267.png,"This picture contains a small purple die showing three, a large white die showing six and a small yellow die showing one.",3,3 6 1,purple white yellow,small large small
+sample_00282.png,There is one medium blue die showing six.,1,6,blue,medium
+sample_00289.png,The image shows a medium peach die showing one and a large peach die showing six.,2,1 6,peach peach,medium large
+sample_00291.png,This picture contains a small white die showing five and a medium purple die showing three.,2,5 3,white purple,small medium
+sample_00314.png,The image shows a large blue die showing three and a medium purple die showing one.,2,3 1,blue purple,large medium
+sample_00326.png,"This picture contains a small peach die showing six, a small green die showing five and a medium white die showing three.",3,6 5 3,peach green white,small small medium
+sample_00327.png,The scene contains a medium blue die showing two and a large red die showing six.,2,2 6,blue red,medium large
+sample_00331.png,"This picture contains a small purple die showing one, a large white die showing two and a medium purple die showing two.",3,1 2 2,purple white purple,small large medium
+sample_00336.png,This picture contains a small white die displaying three.,1,3,white,small
+sample_00339.png,The image shows one small peach die with value two.,1,2,peach,small
+sample_00358.png,"There are a small purple die showing four, a small red die showing one and a medium white die showing three in the scene.",3,4 1 3,purple red white,small small medium
+sample_00367.png,"This picture contains a small green die showing five, a small green die showing four and a medium white die showing five.",3,5 4 5,green green white,small small medium
+sample_00373.png,"The image shows a large green die showing six, a medium green die showing three and a medium yellow die showing two.",3,6 3 2,green green yellow,large medium medium
+sample_00376.png,"There are a large blue die showing five, a large red die showing five and a large green die showing six in the scene.",3,5 5 6,blue red green,large large large
+sample_00377.png,The image shows a large purple die showing three and a medium yellow die showing four.,2,3 4,purple yellow,large medium
+sample_00400.png,"The image shows a medium blue die showing one, a small purple die showing six and a small white die showing one.",3,1 6 1,blue purple white,medium small small
+sample_00402.png,This picture contains 2 small green dice displaying three and four.,2,3 4,green green,small small
+sample_00413.png,"There are a large blue die showing five, a small peach die showing one and a small peach die showing four in the scene.",3,5 1 4,blue peach peach,large small small
+sample_00416.png,"The image shows a small purple die showing four, a small peach die showing three and a large green die showing two.",3,4 3 2,purple peach green,small small large
+sample_00419.png,This picture contains a small purple die showing three and a medium red die showing six.,2,3 6,purple red,small medium
+sample_00426.png,There is one small red die showing two.,1,2,red,small
+sample_00428.png,There are a small white die showing one and a large purple die showing three in the scene.,2,1 3,white purple,small large
+sample_00429.png,A small peach die is shown with a value of six.,1,6,peach,small
+sample_00432.png,The scene contains a large green die showing five and a large yellow die showing two.,2,5 2,green yellow,large large
+sample_00459.png,The scene contains a large purple die showing two and a large peach die showing one.,2,2 1,purple peach,large large
+sample_00465.png,This picture contains a medium white die displaying three.,1,3,white,medium
+sample_00476.png,The image shows one small green die with value one.,1,1,green,small
+sample_00479.png,The scene contains a small green die showing two and a small purple die showing three.,2,2 3,green purple,small small
+sample_00480.png,There are a small red die showing two and a medium white die showing one in the scene.,2,2 1,red white,small medium
+sample_00487.png,The image shows one small purple die with value one.,1,1,purple,small
+sample_00495.png,This picture contains a small red die displaying three.,1,3,red,small
+sample_00497.png,"The scene contains a medium peach die showing five, a medium blue die showing five and a medium yellow die showing five.",3,5 5 5,peach blue yellow,medium medium medium
+sample_00501.png,"The image shows a large white die showing four, a small red die showing three and a large purple die showing four.",3,4 3 4,white red purple,large small large
+sample_00502.png,The image shows one small green die with value five.,1,5,green,small
+sample_00518.png,A medium yellow die is shown with a value of three.,1,3,yellow,medium
+sample_00525.png,"The image shows a medium green die showing six, a small green die showing six and a large green die showing one.",3,6 6 1,green green green,medium small large
+sample_00533.png,A large red die is shown with a value of six.,1,6,red,large
+sample_00535.png,The image shows one large green die with value five.,1,5,green,large
+sample_00539.png,The image shows one large yellow die with value three.,1,3,yellow,large
+sample_00547.png,A medium yellow die is shown with a value of five.,1,5,yellow,medium
+sample_00555.png,The scene contains a small purple die showing two and a large white die showing five.,2,2 5,purple white,small large
+sample_00570.png,A large purple die is shown with a value of two.,1,2,purple,large
+sample_00586.png,The image shows one small yellow die with value four.,1,4,yellow,small
+sample_00592.png,There is one large purple die showing six.,1,6,purple,large
+sample_00598.png,This picture contains a medium green die displaying one.,1,1,green,medium
+sample_00600.png,There is one medium yellow die showing five.,1,5,yellow,medium
+sample_00610.png,The image shows a large blue die showing two and a small green die showing three.,2,2 3,blue green,large small
+sample_00618.png,The scene contains a medium purple die showing six and a small peach die showing four.,2,6 4,purple peach,medium small
+sample_00619.png,This picture contains a medium peach die displaying six.,1,6,peach,medium
+sample_00645.png,There are a large blue die showing four and a small white die showing two in the scene.,2,4 2,blue white,large small
+sample_00647.png,This picture contains a small yellow die showing three and a small blue die showing one.,2,3 1,yellow blue,small small
+sample_00653.png,There are a medium blue die showing three and a medium purple die showing four in the scene.,2,3 4,blue purple,medium medium
+sample_00657.png,There is one large red die showing four.,1,4,red,large
+sample_00663.png,This picture contains a large white die showing six and a small green die showing one.,2,6 1,white green,large small
+sample_00668.png,This picture contains a large yellow die showing one and a small purple die showing three.,2,1 3,yellow purple,large small
+sample_00673.png,This picture contains a medium purple die showing four and a small white die showing one.,2,4 1,purple white,medium small
+sample_00677.png,"The image shows a medium purple die showing four, a small yellow die showing one and a large blue die showing two.",3,4 1 2,purple yellow blue,medium small large
+sample_00682.png,There is one large green die showing two.,1,2,green,large
+sample_00683.png,"The scene contains a large green die showing five, a medium yellow die showing three and a small blue die showing four.",3,5 3 4,green yellow blue,large medium small
+sample_00685.png,This picture contains a medium yellow die showing three and a large yellow die showing four.,2,3 4,yellow yellow,medium large
+sample_00688.png,"The scene contains a large purple die showing three, a large green die showing six and a small blue die showing one.",3,3 6 1,purple green blue,large large small
+sample_00691.png,"The scene contains a large green die showing two, a large green die showing four and a medium white die showing four.",3,2 4 4,green green white,large large medium
+sample_00692.png,The scene contains a small purple die showing three and a medium white die showing five.,2,3 5,purple white,small medium
+sample_00698.png,"The scene contains a large yellow die showing four, a large purple die showing one and a medium green die showing one.",3,4 1 1,yellow purple green,large large medium
+sample_00701.png,The image shows one small yellow die with value two.,1,2,yellow,small
+sample_00702.png,This picture contains a large purple die displaying two.,1,2,purple,large
+sample_00713.png,The image shows one small red die with value five.,1,5,red,small
+sample_00718.png,"There are a large peach die showing two, a large purple die showing one and a medium yellow die showing two in the scene.",3,2 1 2,peach purple yellow,large large medium
+sample_00730.png,A medium peach die is shown with a value of four.,1,4,peach,medium
+sample_00734.png,The scene contains a medium blue die showing one and a medium yellow die showing one.,2,1 1,blue yellow,medium medium
+sample_00752.png,There is one small purple die showing three.,1,3,purple,small
+sample_00760.png,A small yellow die is shown with a value of six.,1,6,yellow,small
+sample_00765.png,This picture contains a large green die displaying six.,1,6,green,large
+sample_00771.png,"The image shows a medium peach die showing four, a small green die showing six and a large red die showing one.",3,4 6 1,peach green red,medium small large
+sample_00776.png,A small yellow die is shown with a value of two.,1,2,yellow,small
+sample_00778.png,There is one medium blue die showing three.,1,3,blue,medium
+sample_00787.png,There is one medium blue die showing five.,1,5,blue,medium
+sample_00796.png,"The image shows a large white die showing two, a small peach die showing six and a medium red die showing one.",3,2 6 1,white peach red,large small medium
+sample_00797.png,"There are a large purple die showing three, a medium white die showing two and a small red die showing six in the scene.",3,3 2 6,purple white red,large medium small
+sample_00802.png,There are a large purple die showing five and a medium white die showing three in the scene.,2,5 3,purple white,large medium
+sample_00804.png,The scene contains a large yellow die showing four and a medium yellow die showing five.,2,4 5,yellow yellow,large medium
+sample_00809.png,"The image shows a small purple die showing four, a large blue die showing two and a medium yellow die showing five.",3,4 2 5,purple blue yellow,small large medium
+sample_00811.png,The image shows one large red die with value three.,1,3,red,large
+sample_00823.png,"There are a large blue die showing two, a large blue die showing six and a small white die showing five in the scene.",3,2 6 5,blue blue white,large large small
+sample_00827.png,"This picture contains a large yellow die showing four, a small green die showing four and a small red die showing five.",3,4 4 5,yellow green red,large small small
+sample_00834.png,"There are a large peach die showing six, a large purple die showing two and a medium blue die showing five in the scene.",3,6 2 5,peach purple blue,large large medium
+sample_00835.png,"This picture contains a medium white die showing six, a large green die showing three and a large yellow die showing five.",3,6 3 5,white green yellow,medium large large
+sample_00846.png,This picture contains a small blue die showing one and a medium red die showing four.,2,1 4,blue red,small medium
+sample_00857.png,"The scene contains a small blue die showing one, a medium purple die showing four and a medium red die showing five.",3,1 4 5,blue purple red,small medium medium
+sample_00860.png,There is one small green die showing five.,1,5,green,small
+sample_00864.png,"The image shows a large red die showing three, a small red die showing five and a medium purple die showing four.",3,3 5 4,red red purple,large small medium
+sample_00871.png,There are a large yellow die showing two and a small yellow die showing two in the scene.,2,2 2,yellow yellow,large small
+sample_00889.png,This picture contains a small white die displaying six.,1,6,white,small
+sample_00897.png,There is one small white die showing three.,1,3,white,small
+sample_00910.png,"The image shows a small white die showing two, a small white die showing four and a large purple die showing one.",3,2 4 1,white white purple,small small large
+sample_00914.png,A large red die is shown with a value of five.,1,5,red,large
+sample_00920.png,A large purple die is shown with a value of two.,1,2,purple,large
+sample_00923.png,The image shows 2 small yellow dice with values six and six.,2,6 6,yellow yellow,small small
+sample_00925.png,This picture contains a small yellow die displaying one.,1,1,yellow,small
+sample_00929.png,"There are a small blue die showing four, a small white die showing six and a medium red die showing six in the scene.",3,4 6 6,blue white red,small small medium
+sample_00933.png,This picture contains a small blue die displaying one.,1,1,blue,small
+sample_00936.png,There are a large red die showing five and a medium white die showing five in the scene.,2,5 5,red white,large medium
+sample_00943.png,There is one large blue die showing five.,1,5,blue,large
+sample_00962.png,"The scene contains a medium green die showing one, a small blue die showing six and a large blue die showing three.",3,1 6 3,green blue blue,medium small large
+sample_00966.png,This picture contains a medium peach die showing five and a small blue die showing one.,2,5 1,peach blue,medium small
+sample_00967.png,"This picture contains a medium red die showing three, a large purple die showing five and a small green die showing four.",3,3 5 4,red purple green,medium large small
+sample_00975.png,"The scene contains a medium purple die showing two, a large purple die showing two and a large green die showing four.",3,2 2 4,purple purple green,medium large large
+sample_00976.png,"This picture contains a medium blue die showing two, a medium green die showing five and a medium white die showing six.",3,2 5 6,blue green white,medium medium medium
+sample_00980.png,The scene contains a large blue die showing one and a small purple die showing two.,2,1 2,blue purple,large small
+sample_00983.png,"There are a large purple die showing four, a large white die showing six and a large white die showing six in the scene.",3,4 6 6,purple white white,large large large
+sample_00987.png,This picture contains a small red die displaying two.,1,2,red,small
+sample_00989.png,A medium red die is shown with a value of three.,1,3,red,medium
+sample_00997.png,There are a medium yellow die showing three and a large red die showing one in the scene.,2,3 1,yellow red,medium large
+sample_01006.png,"There are a large green die showing two, a large peach die showing six and a small green die showing six in the scene.",3,2 6 6,green peach green,large large small
+sample_01012.png,The scene contains a small purple die showing two and a large peach die showing one.,2,2 1,purple peach,small large
+sample_01015.png,A large blue die is shown with a value of three.,1,3,blue,large
+sample_01021.png,"The scene contains a large green die showing four, a medium green die showing two and a medium green die showing four.",3,4 2 4,green green green,large medium medium
+sample_01026.png,"The image shows a medium green die showing four, a large red die showing five and a medium blue die showing five.",3,4 5 5,green red blue,medium large medium
+sample_01044.png,"The image shows a medium yellow die showing six, a large red die showing five and a medium red die showing four.",3,6 5 4,yellow red red,medium large medium
+sample_01063.png,The image shows one medium peach die with value four.,1,4,peach,medium
+sample_01069.png,The scene contains a large blue die showing four and a large peach die showing six.,2,4 6,blue peach,large large
+sample_01085.png,This picture contains a small white die showing three and a medium purple die showing three.,2,3 3,white purple,small medium
+sample_01093.png,A large yellow die is shown with a value of six.,1,6,yellow,large
+sample_01096.png,The image shows one medium blue die with value three.,1,3,blue,medium
+sample_01101.png,There are a medium blue die showing two and a small peach die showing three in the scene.,2,2 3,blue peach,medium small
+sample_01103.png,A medium blue die is shown with a value of two.,1,2,blue,medium
+sample_01112.png,"There are a small yellow die showing six, a medium blue die showing five and a large blue die showing five in the scene.",3,6 5 5,yellow blue blue,small medium large
+sample_01114.png,The image shows one medium red die with value five.,1,5,red,medium
+sample_01116.png,The image shows one small blue die with value one.,1,1,blue,small
+sample_01117.png,"The scene contains a large blue die showing six, a large red die showing three and a small peach die showing five.",3,6 3 5,blue red peach,large large small
+sample_01135.png,The scene contains a small yellow die showing two and a large green die showing four.,2,2 4,yellow green,small large
+sample_01140.png,The scene contains a medium blue die showing six and a large blue die showing six.,2,6 6,blue blue,medium large
+sample_01147.png,"This picture contains a medium purple die showing six, a large blue die showing five and a large white die showing four.",3,6 5 4,purple blue white,medium large large
+sample_01151.png,"There are a small purple die showing five, a small blue die showing three and a medium red die showing one in the scene.",3,5 3 1,purple blue red,small small medium
+sample_01152.png,There is one medium blue die showing two.,1,2,blue,medium
+sample_01162.png,"There are a large red die showing six, a large red die showing three and a small peach die showing four in the scene.",3,6 3 4,red red peach,large large small
+sample_01164.png,"The image shows a medium yellow die showing one, a medium purple die showing one and a medium red die showing four.",3,1 1 4,yellow purple red,medium medium medium
+sample_01174.png,"The scene contains a large purple die showing one, a medium green die showing four and a medium blue die showing one.",3,1 4 1,purple green blue,large medium medium
+sample_01175.png,The image shows one large green die with value three.,1,3,green,large
+sample_01185.png,This picture contains a medium blue die showing three and a large red die showing two.,2,3 2,blue red,medium large
+sample_01198.png,A medium blue die is shown with a value of six.,1,6,blue,medium
+sample_01201.png,"There are a medium blue die showing six, a small blue die showing one and a medium green die showing four in the scene.",3,6 1 4,blue blue green,medium small medium
+sample_01202.png,"The scene contains a medium yellow die showing one, a medium yellow die showing four and a large white die showing four.",3,1 4 4,yellow yellow white,medium medium large
+sample_01203.png,"The scene contains a large green die showing six, a medium yellow die showing four and a large blue die showing five.",3,6 4 5,green yellow blue,large medium large
+sample_01210.png,The scene contains a small blue die showing four and a small yellow die showing four.,2,4 4,blue yellow,small small
+sample_01214.png,There is one large blue die showing four.,1,4,blue,large
+sample_01215.png,This picture contains a small green die showing five and a small yellow die showing five.,2,5 5,green yellow,small small
+sample_01219.png,A medium yellow die is shown with a value of five.,1,5,yellow,medium
+sample_01237.png,"The scene contains a large red die showing six, a small red die showing five and a medium white die showing five.",3,6 5 5,red red white,large small medium
+sample_01244.png,"The scene contains a small green die showing two, a large red die showing two and a small white die showing four.",3,2 2 4,green red white,small large small
+sample_01245.png,The image shows a large purple die showing two and a medium yellow die showing five.,2,2 5,purple yellow,large medium
+sample_01252.png,The image shows one small blue die with value one.,1,1,blue,small
+sample_01253.png,A small peach die is shown with a value of four.,1,4,peach,small
+sample_01254.png,This picture contains a medium blue die showing two and a medium white die showing six.,2,2 6,blue white,medium medium
+sample_01256.png,"There are a small white die showing two, a medium green die showing four and a large purple die showing five in the scene.",3,2 4 5,white green purple,small medium large
+sample_01261.png,This picture contains a small yellow die showing five and a small blue die showing three.,2,5 3,yellow blue,small small
+sample_01267.png,This picture contains a medium yellow die displaying four.,1,4,yellow,medium
+sample_01273.png,This picture contains a small purple die showing one and a large green die showing two.,2,1 2,purple green,small large
+sample_01280.png,"There are a medium white die showing six, a small red die showing two and a medium red die showing six in the scene.",3,6 2 6,white red red,medium small medium
+sample_01282.png,This picture contains a small white die displaying six.,1,6,white,small
+sample_01296.png,"The scene contains a small white die showing two, a large yellow die showing six and a medium green die showing six.",3,2 6 6,white yellow green,small large medium
+sample_01300.png,"There are a small peach die showing two, a medium white die showing five and a large peach die showing four in the scene.",3,2 5 4,peach white peach,small medium large
+sample_01302.png,The image shows one large yellow die with value six.,1,6,yellow,large
+sample_01304.png,"There are a medium peach die showing six, a large purple die showing five and a small green die showing five in the scene.",3,6 5 5,peach purple green,medium large small
+sample_01307.png,The image shows a medium blue die showing one and a medium white die showing four.,2,1 4,blue white,medium medium
+sample_01314.png,The image shows one medium white die with value five.,1,5,white,medium
+sample_01315.png,"This picture contains a medium blue die showing six, a large white die showing two and a large white die showing three.",3,6 2 3,blue white white,medium large large
+sample_01336.png,A large red die is shown with a value of four.,1,4,red,large
+sample_01354.png,This picture contains a medium white die displaying five.,1,5,white,medium
+sample_01370.png,The scene contains a small blue die showing one and a medium red die showing three.,2,1 3,blue red,small medium
+sample_01371.png,This picture contains a large green die showing five and a medium peach die showing six.,2,5 6,green peach,large medium
+sample_01375.png,The image shows a medium peach die showing two and a large yellow die showing two.,2,2 2,peach yellow,medium large
+sample_01387.png,A large peach die is shown with a value of six.,1,6,peach,large
+sample_01391.png,There is one large green die showing two.,1,2,green,large
+sample_01393.png,The image shows a small peach die showing six and a small blue die showing one.,2,6 1,peach blue,small small
+sample_01401.png,There is one large white die showing one.,1,1,white,large
+sample_01402.png,This picture contains a small yellow die showing five and a medium yellow die showing four.,2,5 4,yellow yellow,small medium
+sample_01410.png,"The scene contains a large yellow die showing four, a small red die showing six and a small red die showing five.",3,4 6 5,yellow red red,large small small
+sample_01412.png,There are a medium yellow die showing six and a small peach die showing one in the scene.,2,6 1,yellow peach,medium small
+sample_01413.png,"The image shows a small blue die showing five, a small blue die showing three and a small purple die showing three.",3,5 3 3,blue blue purple,small small small
+sample_01415.png,This picture contains a small purple die showing one and a large blue die showing two.,2,1 2,purple blue,small large
+sample_01420.png,This picture contains a medium blue die showing three and a small yellow die showing five.,2,3 5,blue yellow,medium small
+sample_01435.png,The image shows one medium peach die with value four.,1,4,peach,medium
+sample_01442.png,"There are a large red die showing six, a small green die showing one and a small peach die showing six in the scene.",3,6 1 6,red green peach,large small small
+sample_01447.png,The scene contains a medium red die showing five and a large green die showing two.,2,5 2,red green,medium large
+sample_01455.png,A small red die is shown with a value of six.,1,6,red,small
+sample_01456.png,This picture contains a small red die displaying four.,1,4,red,small
+sample_01461.png,"This picture contains a small red die showing six, a small red die showing three and a medium blue die showing two.",3,6 3 2,red red blue,small small medium
+sample_01469.png,There are a medium white die showing three and a medium peach die showing two in the scene.,2,3 2,white peach,medium medium
+sample_01501.png,"The scene contains a large white die showing four, a large yellow die showing four and a small purple die showing six.",3,4 4 6,white yellow purple,large large small
+sample_01503.png,"The image shows a medium blue die showing two, a medium peach die showing one and a medium purple die showing two.",3,2 1 2,blue peach purple,medium medium medium
+sample_01504.png,"There are a medium white die showing two, a small purple die showing four and a small purple die showing six in the scene.",3,2 4 6,white purple purple,medium small small
+sample_01505.png,"A scene with 2 medium green dice is shown, displaying one and five.",2,1 5,green green,medium medium
+sample_01513.png,This picture contains a small green die showing four and a large peach die showing five.,2,4 5,green peach,small large
+sample_01525.png,This picture contains a small green die showing five and a large green die showing three.,2,5 3,green green,small large
+sample_01538.png,There is one medium peach die showing five.,1,5,peach,medium
+sample_01539.png,"The image shows a large blue die showing six, a medium purple die showing five and a medium purple die showing one.",3,6 5 1,blue purple purple,large medium medium
+sample_01546.png,The image shows one small white die with value five.,1,5,white,small
+sample_01551.png,The image shows a large blue die showing four and a small purple die showing five.,2,4 5,blue purple,large small
+sample_01559.png,There is one small white die showing two.,1,2,white,small
+sample_01569.png,This picture contains a medium yellow die showing five and a small peach die showing two.,2,5 2,yellow peach,medium small
+sample_01574.png,A medium purple die is shown with a value of three.,1,3,purple,medium
+sample_01576.png,There are a large blue die showing three and a medium green die showing one in the scene.,2,3 1,blue green,large medium
+sample_01591.png,The image shows a large white die showing six and a small green die showing six.,2,6 6,white green,large small
+sample_01595.png,There is one small white die showing four.,1,4,white,small
+sample_01598.png,"The scene contains a medium purple die showing five, a medium purple die showing two and a small green die showing six.",3,5 2 6,purple purple green,medium medium small
+sample_01604.png,"A scene with 2 medium green dice is shown, displaying three and five.",2,3 5,green green,medium medium
+sample_01609.png,There is one medium blue die showing two.,1,2,blue,medium
+sample_01612.png,There is one large yellow die showing four.,1,4,yellow,large
+sample_01628.png,This picture contains a medium yellow die displaying two.,1,2,yellow,medium
+sample_01633.png,A medium purple die is shown with a value of five.,1,5,purple,medium
+sample_01639.png,A large red die is shown with a value of five.,1,5,red,large
+sample_01657.png,There are a small blue die showing two and a medium blue die showing five in the scene.,2,2 5,blue blue,small medium
+sample_01669.png,The scene contains a medium white die showing three and a small red die showing three.,2,3 3,white red,medium small
+sample_01671.png,There are a small red die showing three and a small white die showing four in the scene.,2,3 4,red white,small small
+sample_01702.png,There is one small white die showing four.,1,4,white,small
+sample_01708.png,"The image shows a medium white die showing four, a large red die showing three and a small purple die showing three.",3,4 3 3,white red purple,medium large small
+sample_01729.png,The scene contains a large blue die showing three and a small purple die showing five.,2,3 5,blue purple,large small
+sample_01731.png,The image shows a medium purple die showing three and a small purple die showing six.,2,3 6,purple purple,medium small
+sample_01734.png,"This picture contains a large white die showing two, a large green die showing two and a large peach die showing three.",3,2 2 3,white green peach,large large large
+sample_01735.png,There are a medium green die showing six and a small blue die showing five in the scene.,2,6 5,green blue,medium small
+sample_01736.png,A medium green die is shown with a value of six.,1,6,green,medium
+sample_01741.png,There is one large peach die showing six.,1,6,peach,large
+sample_01748.png,This picture contains a medium red die showing five and a large peach die showing five.,2,5 5,red peach,medium large
+sample_01758.png,This picture contains a small peach die showing three and a medium yellow die showing four.,2,3 4,peach yellow,small medium
+sample_01769.png,This picture contains a medium blue die showing four and a small red die showing two.,2,4 2,blue red,medium small
+sample_01774.png,This picture contains a large peach die showing four and a large green die showing one.,2,4 1,peach green,large large
+sample_01779.png,This picture contains a medium blue die displaying two.,1,2,blue,medium
+sample_01784.png,"The image shows a large purple die showing four, a small peach die showing six and a small blue die showing three.",3,4 6 3,purple peach blue,large small small
+sample_01798.png,There are a medium white die showing two and a medium red die showing six in the scene.,2,2 6,white red,medium medium
+sample_01805.png,"This picture contains a large white die showing two, a medium purple die showing two and a small yellow die showing four.",3,2 2 4,white purple yellow,large medium small
+sample_01818.png,There is one large blue die showing five.,1,5,blue,large
+sample_01829.png,The image shows a medium peach die showing one and a medium green die showing five.,2,1 5,peach green,medium medium
+sample_01832.png,The scene contains a small purple die showing five and a medium purple die showing four.,2,5 4,purple purple,small medium
+sample_01833.png,The scene contains a small yellow die showing five and a medium green die showing four.,2,5 4,yellow green,small medium
+sample_01837.png,This picture contains a medium red die showing six and a medium green die showing four.,2,6 4,red green,medium medium
+sample_01839.png,The image shows one small peach die with value six.,1,6,peach,small
+sample_01840.png,The scene contains a large green die showing three and a medium green die showing four.,2,3 4,green green,large medium
+sample_01872.png,This picture contains a medium blue die showing four and a small blue die showing three.,2,4 3,blue blue,medium small
+sample_01876.png,The scene contains a small yellow die showing two and a large red die showing three.,2,2 3,yellow red,small large
+sample_01883.png,The image shows a large blue die showing one and a medium green die showing one.,2,1 1,blue green,large medium
+sample_01885.png,This picture contains a small green die displaying four.,1,4,green,small
+sample_01886.png,There are a medium peach die showing two and a small green die showing six in the scene.,2,2 6,peach green,medium small
+sample_01887.png,This picture contains a large purple die showing five and a small white die showing two.,2,5 2,purple white,large small
+sample_01890.png,"There are a large red die showing five, a large blue die showing five and a large peach die showing five in the scene.",3,5 5 5,red blue peach,large large large
+sample_01901.png,There is one small peach die showing three.,1,3,peach,small
+sample_01903.png,"There are a medium purple die showing six, a medium yellow die showing three and a large white die showing one in the scene.",3,6 3 1,purple yellow white,medium medium large
+sample_01923.png,There are a large white die showing two and a large green die showing two in the scene.,2,2 2,white green,large large
+sample_01924.png,The scene contains a small yellow die showing five and a small white die showing five.,2,5 5,yellow white,small small
+sample_01926.png,"The image shows a large green die showing five, a large green die showing two and a small purple die showing five.",3,5 2 5,green green purple,large large small
+sample_01927.png,The image shows one medium purple die with value three.,1,3,purple,medium
+sample_01930.png,"The image shows a small white die showing six, a large white die showing one and a small white die showing three.",3,6 1 3,white white white,small large small
+sample_01936.png,There is one small yellow die showing six.,1,6,yellow,small
+sample_01937.png,"There are a medium red die showing four, a medium purple die showing six and a large blue die showing five in the scene.",3,4 6 5,red purple blue,medium medium large
+sample_01946.png,A medium green die is shown with a value of six.,1,6,green,medium
+sample_01962.png,"The image shows a small blue die showing five, a large peach die showing one and a small blue die showing five.",3,5 1 5,blue peach blue,small large small
+sample_01964.png,This picture contains a medium purple die showing four and a small purple die showing six.,2,4 6,purple purple,medium small
+sample_01965.png,There are a large purple die showing three and a medium peach die showing three in the scene.,2,3 3,purple peach,large medium
+sample_01996.png,The scene contains a large green die showing five and a small white die showing four.,2,5 4,green white,large small
+sample_02000.png,This picture contains a small blue die showing three and a medium peach die showing two.,2,3 2,blue peach,small medium
+sample_02003.png,"The scene contains a small white die showing two, a medium red die showing one and a medium white die showing five.",3,2 1 5,white red white,small medium medium
+sample_02009.png,The scene contains a small white die showing two and a medium red die showing three.,2,2 3,white red,small medium
+sample_02014.png,"There are a small peach die showing two, a medium green die showing three and a large green die showing five in the scene.",3,2 3 5,peach green green,small medium large
+sample_02017.png,There are a large yellow die showing three and a large white die showing one in the scene.,2,3 1,yellow white,large large
+sample_02022.png,There are a large white die showing five and a medium yellow die showing six in the scene.,2,5 6,white yellow,large medium
+sample_02037.png,A medium white die is shown with a value of three.,1,3,white,medium
+sample_02040.png,There are a large green die showing one and a small green die showing one in the scene.,2,1 1,green green,large small
+sample_02043.png,"This picture contains a small green die showing six, a small red die showing three and a small red die showing two.",3,6 3 2,green red red,small small small
+sample_02057.png,"There are a medium peach die showing six, a small green die showing two and a large green die showing five in the scene.",3,6 2 5,peach green green,medium small large
+sample_02060.png,"This picture contains a large green die showing four, a large peach die showing two and a large white die showing four.",3,4 2 4,green peach white,large large large
+sample_02066.png,The image shows one large peach die with value one.,1,1,peach,large
+sample_02073.png,A small white die is shown with a value of six.,1,6,white,small
+sample_02078.png,This picture contains a large white die showing two and a medium purple die showing two.,2,2 2,white purple,large medium
+sample_02091.png,"This picture contains a small white die showing four, a medium peach die showing five and a small red die showing six.",3,4 5 6,white peach red,small medium small
+sample_02093.png,A large green die is shown with a value of four.,1,4,green,large
+sample_02113.png,A small red die is shown with a value of six.,1,6,red,small
+sample_02119.png,The scene contains a large green die showing three and a large purple die showing three.,2,3 3,green purple,large large
+sample_02121.png,"The image shows a small white die showing four, a small green die showing two and a small green die showing one.",3,4 2 1,white green green,small small small
+sample_02124.png,"The image shows a small peach die showing four, a small green die showing four and a medium green die showing three.",3,4 4 3,peach green green,small small medium
+sample_02127.png,There are a medium red die showing one and a large green die showing six in the scene.,2,1 6,red green,medium large
+sample_02133.png,This picture contains a large purple die displaying three.,1,3,purple,large
+sample_02150.png,A large yellow die is shown with a value of three.,1,3,yellow,large
+sample_02160.png,The scene contains a large red die showing one and a medium green die showing five.,2,1 5,red green,large medium
+sample_02167.png,There is one medium white die showing one.,1,1,white,medium
+sample_02170.png,"There are a small peach die showing six, a medium red die showing five and a small blue die showing three in the scene.",3,6 5 3,peach red blue,small medium small
+sample_02173.png,This picture contains a small purple die showing six and a large blue die showing three.,2,6 3,purple blue,small large
+sample_02176.png,The image shows a small green die showing three and a small peach die showing two.,2,3 2,green peach,small small
+sample_02193.png,This picture contains a small white die showing five and a small purple die showing two.,2,5 2,white purple,small small
+sample_02197.png,The image shows one large blue die with value six.,1,6,blue,large
+sample_02200.png,The scene contains a medium green die showing five and a medium red die showing six.,2,5 6,green red,medium medium
+sample_02210.png,"This picture contains a small purple die showing three, a medium purple die showing three and a medium peach die showing six.",3,3 3 6,purple purple peach,small medium medium
+sample_02212.png,There is one medium green die showing two.,1,2,green,medium
+sample_02221.png,The image shows a small white die showing one and a medium red die showing one.,2,1 1,white red,small medium
+sample_02225.png,"The image shows a small red die showing five, a small blue die showing six and a small yellow die showing four.",3,5 6 4,red blue yellow,small small small
+sample_02226.png,There is one large green die showing one.,1,1,green,large
+sample_02233.png,The image shows one large purple die with value six.,1,6,purple,large
+sample_02237.png,A large purple die is shown with a value of three.,1,3,purple,large
+sample_02240.png,There are a large peach die showing one and a medium blue die showing two in the scene.,2,1 2,peach blue,large medium
+sample_02244.png,"This picture contains a large purple die showing three, a large red die showing five and a medium white die showing four.",3,3 5 4,purple red white,large large medium
+sample_02252.png,"The scene contains a large yellow die showing six, a small blue die showing two and a large peach die showing one.",3,6 2 1,yellow blue peach,large small large
+sample_02277.png,This picture contains a medium peach die showing two and a small red die showing one.,2,2 1,peach red,medium small
+sample_02278.png,"This picture contains a large green die showing five, a large yellow die showing four and a medium red die showing one.",3,5 4 1,green yellow red,large large medium
+sample_02284.png,The scene contains a large red die showing two and a large blue die showing five.,2,2 5,red blue,large large
+sample_02287.png,"There are a large blue die showing six, a medium purple die showing five and a medium purple die showing one in the scene.",3,6 5 1,blue purple purple,large medium medium
+sample_02292.png,This picture contains a medium yellow die displaying three.,1,3,yellow,medium
+sample_02306.png,"The image shows a medium red die showing six, a small white die showing two and a small purple die showing six.",3,6 2 6,red white purple,medium small small
+sample_02311.png,There are a medium blue die showing three and a small yellow die showing four in the scene.,2,3 4,blue yellow,medium small
+sample_02341.png,This picture contains a medium peach die showing two and a large green die showing four.,2,2 4,peach green,medium large
+sample_02354.png,This picture contains a small purple die displaying five.,1,5,purple,small
+sample_02360.png,This picture contains 2 small yellow dice displaying one and three.,2,1 3,yellow yellow,small small
+sample_02361.png,The scene contains a large white die showing three and a medium purple die showing one.,2,3 1,white purple,large medium
+sample_02363.png,The image shows a large purple die showing six and a small purple die showing two.,2,6 2,purple purple,large small
+sample_02369.png,The image shows a large green die showing six and a small green die showing two.,2,6 2,green green,large small
+sample_02374.png,A small red die is shown with a value of four.,1,4,red,small
+sample_02379.png,"There are a medium red die showing four, a small white die showing four and a small white die showing four in the scene.",3,4 4 4,red white white,medium small small
+sample_02385.png,The image shows a large purple die showing five and a small red die showing four.,2,5 4,purple red,large small
+sample_02393.png,"This picture contains a small purple die showing four, a medium blue die showing six and a medium white die showing one.",3,4 6 1,purple blue white,small medium medium
+sample_02402.png,The scene contains a small blue die showing one and a medium purple die showing three.,2,1 3,blue purple,small medium
+sample_02405.png,There are a small blue die showing two and a large green die showing two in the scene.,2,2 2,blue green,small large
+sample_02406.png,The image shows a small red die showing three and a medium peach die showing five.,2,3 5,red peach,small medium
+sample_02420.png,This picture contains a large purple die displaying two.,1,2,purple,large
+sample_02421.png,This picture contains a medium red die showing two and a large yellow die showing four.,2,2 4,red yellow,medium large
+sample_02424.png,This picture contains a small white die showing five and a small yellow die showing three.,2,5 3,white yellow,small small
+sample_02435.png,A small red die is shown with a value of five.,1,5,red,small
+sample_02443.png,"This picture contains a medium yellow die showing three, a medium white die showing two and a medium blue die showing two.",3,3 2 2,yellow white blue,medium medium medium
+sample_02456.png,"There are a small yellow die showing three, a large yellow die showing four and a large green die showing one in the scene.",3,3 4 1,yellow yellow green,small large large
+sample_02457.png,"This picture contains a small purple die showing one, a small green die showing one and a small red die showing five.",3,1 1 5,purple green red,small small small
+sample_02468.png,This picture contains a large yellow die displaying three.,1,3,yellow,large
+sample_02481.png,There are a medium white die showing four and a small yellow die showing two in the scene.,2,4 2,white yellow,medium small
+sample_02485.png,The image shows one large blue die with value two.,1,2,blue,large
+sample_02491.png,A small purple die is shown with a value of six.,1,6,purple,small
+sample_02493.png,There is one small green die showing three.,1,3,green,small
+sample_02507.png,There is one small blue die showing six.,1,6,blue,small
+sample_02513.png,"There are a small blue die showing two, a small red die showing five and a small purple die showing three in the scene.",3,2 5 3,blue red purple,small small small
+sample_02519.png,"The image shows a small white die showing three, a medium red die showing five and a large purple die showing three.",3,3 5 3,white red purple,small medium large
+sample_02525.png,"This picture contains a large yellow die showing five, a medium green die showing three and a small red die showing six.",3,5 3 6,yellow green red,large medium small
+sample_02526.png,There is one large blue die showing two.,1,2,blue,large
+sample_02535.png,"There are a small white die showing six, a small green die showing one and a medium red die showing one in the scene.",3,6 1 1,white green red,small small medium
+sample_02540.png,The scene contains a small peach die showing five and a medium peach die showing five.,2,5 5,peach peach,small medium
+sample_02546.png,"The image shows a large red die showing one, a medium purple die showing one and a medium peach die showing two.",3,1 1 2,red purple peach,large medium medium
+sample_02551.png,There are a medium yellow die showing four and a large white die showing three in the scene.,2,4 3,yellow white,medium large
+sample_02555.png,"The scene contains a medium blue die showing six, a large blue die showing four and a small yellow die showing three.",3,6 4 3,blue blue yellow,medium large small
+sample_02570.png,This picture contains a large green die displaying three.,1,3,green,large
+sample_02585.png,There is one small green die showing six.,1,6,green,small
+sample_02588.png,"This picture contains a small red die showing two, a large red die showing six and a small red die showing one.",3,2 6 1,red red red,small large small
+sample_02590.png,The image shows a large blue die showing two and a medium purple die showing six.,2,2 6,blue purple,large medium
+sample_02613.png,"This picture contains a large white die showing six, a small peach die showing four and a small white die showing six.",3,6 4 6,white peach white,large small small
+sample_02618.png,"The scene contains a large yellow die showing four, a small red die showing three and a large white die showing one.",3,4 3 1,yellow red white,large small large
+sample_02638.png,The image shows one small green die with value one.,1,1,green,small
+sample_02639.png,"The image shows a small purple die showing five, a large white die showing four and a medium purple die showing five.",3,5 4 5,purple white purple,small large medium
+sample_02640.png,There are a medium red die showing six and a medium green die showing one in the scene.,2,6 1,red green,medium medium
+sample_02644.png,The image shows one medium purple die with value five.,1,5,purple,medium
+sample_02650.png,"There are a large peach die showing two, a medium green die showing six and a large yellow die showing four in the scene.",3,2 6 4,peach green yellow,large medium large
+sample_02654.png,There is one large green die showing one.,1,1,green,large
+sample_02655.png,"The image shows a small blue die showing two, a medium white die showing one and a small yellow die showing two.",3,2 1 2,blue white yellow,small medium small
+sample_02661.png,"This picture contains 3 large red dice displaying four, four and three.",3,4 4 3,red red red,large large large
+sample_02668.png,The scene contains a large red die showing five and a medium purple die showing four.,2,5 4,red purple,large medium
+sample_02669.png,A small purple die is shown with a value of two.,1,2,purple,small
+sample_02675.png,The image shows a small purple die showing three and a small yellow die showing four.,2,3 4,purple yellow,small small
+sample_02676.png,The image shows one large red die with value three.,1,3,red,large
+sample_02679.png,"There are a medium yellow die showing one, a small peach die showing four and a small blue die showing two in the scene.",3,1 4 2,yellow peach blue,medium small small
+sample_02686.png,"This picture contains a medium blue die showing five, a large yellow die showing five and a medium white die showing six.",3,5 5 6,blue yellow white,medium large medium
+sample_02696.png,There is one small white die showing five.,1,5,white,small
+sample_02700.png,The scene contains a small peach die showing five and a small yellow die showing four.,2,5 4,peach yellow,small small
+sample_02704.png,"There are a small peach die showing one, a medium blue die showing one and a small white die showing one in the scene.",3,1 1 1,peach blue white,small medium small
+sample_02708.png,The scene contains a large yellow die showing five and a small yellow die showing three.,2,5 3,yellow yellow,large small
+sample_02718.png,"The image shows a small purple die showing one, a small yellow die showing three and a medium green die showing one.",3,1 3 1,purple yellow green,small small medium
+sample_02721.png,This picture contains a large peach die showing five and a medium purple die showing one.,2,5 1,peach purple,large medium
+sample_02724.png,The scene contains a medium white die showing six and a large white die showing three.,2,6 3,white white,medium large
+sample_02737.png,"The image shows a medium blue die showing one, a medium blue die showing three and a large purple die showing four.",3,1 3 4,blue blue purple,medium medium large
+sample_02748.png,The image shows one small peach die with value two.,1,2,peach,small
+sample_02751.png,"This picture contains a medium white die showing five, a small green die showing two and a medium red die showing five.",3,5 2 5,white green red,medium small medium
+sample_02754.png,"There are a large peach die showing three, a medium peach die showing six and a large green die showing three in the scene.",3,3 6 3,peach peach green,large medium large
+sample_02759.png,The image shows a small yellow die showing four and a medium red die showing six.,2,4 6,yellow red,small medium
+sample_02772.png,The image shows one large yellow die with value three.,1,3,yellow,large
+sample_02778.png,This picture contains a small white die showing three and a small peach die showing two.,2,3 2,white peach,small small
+sample_02794.png,A small green die is shown with a value of three.,1,3,green,small
+sample_02800.png,"This picture contains a large green die showing three, a large white die showing six and a small peach die showing six.",3,3 6 6,green white peach,large large small
+sample_02814.png,There are a large red die showing three and a large peach die showing two in the scene.,2,3 2,red peach,large large
+sample_02817.png,A large peach die is shown with a value of four.,1,4,peach,large
+sample_02828.png,"The image shows a medium yellow die showing one, a medium peach die showing five and a medium red die showing three.",3,1 5 3,yellow peach red,medium medium medium
+sample_02832.png,"The image shows a medium red die showing four, a large blue die showing two and a medium peach die showing five.",3,4 2 5,red blue peach,medium large medium
+sample_02838.png,The image shows one small blue die with value two.,1,2,blue,small
+sample_02859.png,This picture contains a medium yellow die showing two and a medium blue die showing six.,2,2 6,yellow blue,medium medium
+sample_02860.png,"The scene contains a medium peach die showing two, a large peach die showing four and a small peach die showing three.",3,2 4 3,peach peach peach,medium large small
+sample_02865.png,The scene contains a large green die showing two and a small blue die showing five.,2,2 5,green blue,large small
+sample_02874.png,The image shows one small green die with value three.,1,3,green,small
+sample_02875.png,This picture contains a medium purple die showing three and a large white die showing four.,2,3 4,purple white,medium large
+sample_02887.png,There are a small blue die showing two and a large yellow die showing two in the scene.,2,2 2,blue yellow,small large
+sample_02893.png,There are a medium yellow die showing one and a small peach die showing four in the scene.,2,1 4,yellow peach,medium small
+sample_02895.png,This picture contains a large green die showing three and a medium blue die showing five.,2,3 5,green blue,large medium
+sample_02908.png,The image shows a medium yellow die showing two and a large blue die showing four.,2,2 4,yellow blue,medium large
+sample_02910.png,This picture contains a small green die showing six and a medium red die showing six.,2,6 6,green red,small medium
+sample_02912.png,"There are a large green die showing four, a medium yellow die showing five and a small yellow die showing five in the scene.",3,4 5 5,green yellow yellow,large medium small
+sample_02923.png,"This picture contains a medium red die showing three, a small peach die showing six and a medium green die showing four.",3,3 6 4,red peach green,medium small medium
+sample_02925.png,The image shows one large red die with value three.,1,3,red,large
+sample_02930.png,"This picture contains a small green die showing five, a large white die showing one and a large purple die showing four.",3,5 1 4,green white purple,small large large
+sample_02932.png,The image shows one medium blue die with value two.,1,2,blue,medium
+sample_02934.png,There are a medium yellow die showing six and a small white die showing one in the scene.,2,6 1,yellow white,medium small
+sample_02939.png,"The scene contains a medium peach die showing four, a small yellow die showing five and a large white die showing six.",3,4 5 6,peach yellow white,medium small large
+sample_02953.png,There are a medium purple die showing three and a small peach die showing two in the scene.,2,3 2,purple peach,medium small
+sample_02956.png,"The image shows a large yellow die showing six, a large yellow die showing four and a small red die showing two.",3,6 4 2,yellow yellow red,large large small
+sample_02959.png,This picture contains a large yellow die showing one and a large purple die showing five.,2,1 5,yellow purple,large large
+sample_02962.png,"The image shows a large red die showing two, a large purple die showing one and a small white die showing one.",3,2 1 1,red purple white,large large small
+sample_02965.png,"The image shows a medium purple die showing five, a small green die showing five and a small blue die showing four.",3,5 5 4,purple green blue,medium small small
+sample_02983.png,The image shows a small green die showing two and a small purple die showing six.,2,2 6,green purple,small small
+sample_02986.png,There is one large white die showing one.,1,1,white,large
+sample_02992.png,"The scene contains a medium red die showing three, a large green die showing five and a large yellow die showing six.",3,3 5 6,red green yellow,medium large large
+sample_02993.png,"This picture contains a large white die showing one, a medium blue die showing four and a small red die showing three.",3,1 4 3,white blue red,large medium small
+sample_02994.png,"There are a small blue die showing five, a small red die showing two and a small red die showing five in the scene.",3,5 2 5,blue red red,small small small
+sample_02996.png,The image shows a medium peach die showing six and a large yellow die showing six.,2,6 6,peach yellow,medium large
+sample_03002.png,There is one small purple die showing three.,1,3,purple,small
+sample_03003.png,"There are a large white die showing six, a medium red die showing four and a small blue die showing three in the scene.",3,6 4 3,white red blue,large medium small
+sample_03006.png,The image shows one large blue die with value three.,1,3,blue,large
+sample_03012.png,The image shows 2 medium green dice with values four and six.,2,4 6,green green,medium medium
+sample_03023.png,There is one small purple die showing two.,1,2,purple,small
+sample_03036.png,A small green die is shown with a value of five.,1,5,green,small
+sample_03040.png,This picture contains a medium green die displaying three.,1,3,green,medium
+sample_03042.png,This picture contains a medium blue die showing six and a large peach die showing five.,2,6 5,blue peach,medium large
+sample_03045.png,The image shows a medium peach die showing four and a small purple die showing six.,2,4 6,peach purple,medium small
+sample_03047.png,"This picture contains a large green die showing one, a small yellow die showing three and a small purple die showing six.",3,1 3 6,green yellow purple,large small small
+sample_03050.png,There are a medium blue die showing six and a medium green die showing six in the scene.,2,6 6,blue green,medium medium
+sample_03053.png,"The image shows a small white die showing one, a large blue die showing four and a small peach die showing three.",3,1 4 3,white blue peach,small large small
+sample_03057.png,This picture contains a medium red die displaying two.,1,2,red,medium
+sample_03060.png,"There are a large blue die showing six, a large purple die showing one and a large purple die showing one in the scene.",3,6 1 1,blue purple purple,large large large
+sample_03061.png,"There are a small blue die showing three, a large green die showing two and a medium red die showing one in the scene.",3,3 2 1,blue green red,small large medium
+sample_03067.png,"The image shows a medium green die showing three, a small blue die showing one and a medium peach die showing five.",3,3 1 5,green blue peach,medium small medium
+sample_03069.png,"This picture contains a large green die showing five, a medium purple die showing four and a small red die showing three.",3,5 4 3,green purple red,large medium small
+sample_03074.png,The image shows one large green die with value three.,1,3,green,large
+sample_03075.png,The scene contains a large yellow die showing two and a small green die showing two.,2,2 2,yellow green,large small
+sample_03076.png,"The image shows a medium peach die showing four, a large white die showing four and a small peach die showing one.",3,4 4 1,peach white peach,medium large small
+sample_03077.png,There is one medium purple die showing three.,1,3,purple,medium
+sample_03078.png,A medium green die is shown with a value of two.,1,2,green,medium
+sample_03090.png,The image shows a small purple die showing four and a medium blue die showing six.,2,4 6,purple blue,small medium
+sample_03091.png,This picture contains 2 small yellow dice displaying two and six.,2,2 6,yellow yellow,small small
+sample_03095.png,The image shows a small peach die showing three and a medium yellow die showing four.,2,3 4,peach yellow,small medium
+sample_03112.png,"This picture contains a medium white die showing six, a large peach die showing four and a medium green die showing four.",3,6 4 4,white peach green,medium large medium
+sample_03140.png,"The scene contains a large purple die showing five, a small yellow die showing one and a large purple die showing one.",3,5 1 1,purple yellow purple,large small large
+sample_03145.png,This picture contains a large peach die displaying one.,1,1,peach,large
+sample_03163.png,The scene contains a medium yellow die showing four and a large yellow die showing six.,2,4 6,yellow yellow,medium large
+sample_03170.png,This picture contains a small peach die displaying one.,1,1,peach,small
+sample_03171.png,The image shows a medium blue die showing five and a medium yellow die showing three.,2,5 3,blue yellow,medium medium
+sample_03173.png,This picture contains a small green die displaying four.,1,4,green,small
+sample_03182.png,The image shows a large purple die showing five and a small blue die showing one.,2,5 1,purple blue,large small
+sample_03198.png,There are a large white die showing four and a large blue die showing six in the scene.,2,4 6,white blue,large large
+sample_03205.png,The image shows one large purple die with value four.,1,4,purple,large
+sample_03217.png,There is one medium red die showing two.,1,2,red,medium
+sample_03227.png,This picture contains a large yellow die displaying one.,1,1,yellow,large
+sample_03233.png,This picture contains a medium white die displaying six.,1,6,white,medium
+sample_03239.png,There are a large peach die showing four and a large red die showing six in the scene.,2,4 6,peach red,large large
+sample_03243.png,There are a small blue die showing one and a medium purple die showing six in the scene.,2,1 6,blue purple,small medium
+sample_03247.png,This picture contains a large yellow die displaying two.,1,2,yellow,large
+sample_03248.png,This picture contains a large red die showing four and a small white die showing six.,2,4 6,red white,large small
+sample_03249.png,The scene contains a large red die showing one and a large white die showing four.,2,1 4,red white,large large
+sample_03261.png,"There are a small purple die showing five, a small yellow die showing four and a small yellow die showing one in the scene.",3,5 4 1,purple yellow yellow,small small small
+sample_03263.png,There is one large red die showing three.,1,3,red,large
+sample_03268.png,"This picture contains a small peach die showing three, a small yellow die showing six and a medium red die showing four.",3,3 6 4,peach yellow red,small small medium
+sample_03276.png,"The image shows a large white die showing one, a medium yellow die showing five and a large yellow die showing one.",3,1 5 1,white yellow yellow,large medium large
+sample_03284.png,"There are a small green die showing four, a small purple die showing six and a large red die showing four in the scene.",3,4 6 4,green purple red,small small large
+sample_03292.png,This picture contains a large red die showing six and a small red die showing four.,2,6 4,red red,large small
+sample_03297.png,"There are a medium purple die showing one, a medium blue die showing one and a large green die showing one in the scene.",3,1 1 1,purple blue green,medium medium large
+sample_03308.png,There are a medium red die showing six and a small blue die showing one in the scene.,2,6 1,red blue,medium small
+sample_03317.png,This picture contains a medium purple die showing two and a medium white die showing six.,2,2 6,purple white,medium medium
+sample_03319.png,There is one medium red die showing four.,1,4,red,medium
+sample_03320.png,"The scene contains a large blue die showing four, a medium yellow die showing six and a large blue die showing five.",3,4 6 5,blue yellow blue,large medium large
+sample_03332.png,There is one small red die showing six.,1,6,red,small
+sample_03338.png,A small red die is shown with a value of two.,1,2,red,small
+sample_03339.png,This picture contains a medium peach die showing four and a small green die showing three.,2,4 3,peach green,medium small
+sample_03341.png,This picture contains a small yellow die showing four and a small purple die showing four.,2,4 4,yellow purple,small small
+sample_03356.png,"This picture contains a large red die showing four, a medium yellow die showing two and a large white die showing four.",3,4 2 4,red yellow white,large medium large
+sample_03367.png,"The image shows a medium blue die showing three, a medium yellow die showing four and a small blue die showing three.",3,3 4 3,blue yellow blue,medium medium small
+sample_03379.png,"The scene contains a medium green die showing six, a medium peach die showing five and a medium blue die showing three.",3,6 5 3,green peach blue,medium medium medium
+sample_03382.png,"The image shows a large purple die showing four, a medium peach die showing four and a large yellow die showing three.",3,4 4 3,purple peach yellow,large medium large
+sample_03383.png,There are a small peach die showing one and a medium blue die showing five in the scene.,2,1 5,peach blue,small medium
+sample_03386.png,The image shows one medium white die with value three.,1,3,white,medium
+sample_03387.png,"This picture contains a small peach die showing one, a medium green die showing four and a medium yellow die showing six.",3,1 4 6,peach green yellow,small medium medium
+sample_03389.png,There are a small purple die showing six and a large white die showing four in the scene.,2,6 4,purple white,small large
+sample_03390.png,"The image shows a large peach die showing one, a medium red die showing three and a medium red die showing two.",3,1 3 2,peach red red,large medium medium
+sample_03398.png,A medium green die is shown with a value of three.,1,3,green,medium
+sample_03404.png,"The image shows a small yellow die showing four, a medium blue die showing two and a large blue die showing five.",3,4 2 5,yellow blue blue,small medium large
+sample_03416.png,There are a large blue die showing three and a medium peach die showing one in the scene.,2,3 1,blue peach,large medium
+sample_03419.png,A small purple die is shown with a value of two.,1,2,purple,small
+sample_03420.png,This picture contains a large blue die showing two and a medium red die showing one.,2,2 1,blue red,large medium
+sample_03421.png,The image shows one large yellow die with value four.,1,4,yellow,large
+sample_03426.png,The image shows a small blue die showing two and a small red die showing three.,2,2 3,blue red,small small
+sample_03431.png,"The scene contains a small white die showing four, a small green die showing four and a small peach die showing four.",3,4 4 4,white green peach,small small small
+sample_03434.png,There are a medium white die showing five and a small peach die showing five in the scene.,2,5 5,white peach,medium small
+sample_03438.png,"There are a medium peach die showing six, a medium white die showing three and a large red die showing six in the scene.",3,6 3 6,peach white red,medium medium large
+sample_03439.png,"There are a medium red die showing two, a medium purple die showing two and a small white die showing one in the scene.",3,2 2 1,red purple white,medium medium small
+sample_03440.png,The image shows a large white die showing three and a large red die showing one.,2,3 1,white red,large large
+sample_03461.png,There are a medium green die showing six and a large red die showing one in the scene.,2,6 1,green red,medium large
+sample_03464.png,"This picture contains a large yellow die showing five, a small blue die showing three and a large red die showing four.",3,5 3 4,yellow blue red,large small large
+sample_03466.png,This picture contains a large peach die displaying six.,1,6,peach,large
+sample_03475.png,The scene contains a medium white die showing one and a large purple die showing two.,2,1 2,white purple,medium large
+sample_03480.png,"There are a large white die showing two, a large red die showing three and a medium peach die showing one in the scene.",3,2 3 1,white red peach,large large medium
+sample_03487.png,"There are a large white die showing six, a medium red die showing two and a large peach die showing three in the scene.",3,6 2 3,white red peach,large medium large
+sample_03492.png,The image shows one large white die with value three.,1,3,white,large
+sample_03494.png,A large blue die is shown with a value of three.,1,3,blue,large
+sample_03503.png,A medium peach die is shown with a value of six.,1,6,peach,medium
+sample_03505.png,"The image shows a small purple die showing six, a medium green die showing two and a medium white die showing two.",3,6 2 2,purple green white,small medium medium
+sample_03508.png,There are a medium white die showing one and a medium yellow die showing two in the scene.,2,1 2,white yellow,medium medium
+sample_03540.png,"The image shows a medium peach die showing five, a small blue die showing one and a small purple die showing two.",3,5 1 2,peach blue purple,medium small small
+sample_03541.png,This picture contains a small yellow die displaying three.,1,3,yellow,small
+sample_03556.png,This picture contains a medium blue die showing four and a small green die showing five.,2,4 5,blue green,medium small
+sample_03558.png,A small blue die is shown with a value of three.,1,3,blue,small
+sample_03566.png,This picture contains a small green die displaying one.,1,1,green,small
+sample_03568.png,The image shows a large yellow die showing two and a large purple die showing six.,2,2 6,yellow purple,large large
+sample_03572.png,"This picture contains a medium red die showing four, a large green die showing two and a small green die showing three.",3,4 2 3,red green green,medium large small
+sample_03590.png,The image shows a medium purple die showing four and a large white die showing one.,2,4 1,purple white,medium large
+sample_03592.png,This picture contains a large green die showing five and a small peach die showing two.,2,5 2,green peach,large small
+sample_03598.png,"This picture contains a large green die showing one, a medium peach die showing three and a large peach die showing one.",3,1 3 1,green peach peach,large medium large
+sample_03605.png,A small blue die is shown with a value of three.,1,3,blue,small
+sample_03607.png,"This picture contains a medium green die showing five, a medium red die showing one and a small red die showing one.",3,5 1 1,green red red,medium medium small
+sample_03610.png,"The image shows a small blue die showing two, a medium yellow die showing two and a medium red die showing six.",3,2 2 6,blue yellow red,small medium medium
+sample_03622.png,The image shows one small peach die with value five.,1,5,peach,small
+sample_03626.png,The image shows one large peach die with value five.,1,5,peach,large
+sample_03627.png,There are a medium yellow die showing six and a medium peach die showing four in the scene.,2,6 4,yellow peach,medium medium
+sample_03635.png,This picture contains a large white die showing four and a small white die showing four.,2,4 4,white white,large small
+sample_03637.png,"The scene contains a large white die showing one, a small blue die showing four and a medium yellow die showing six.",3,1 4 6,white blue yellow,large small medium
+sample_03641.png,This picture contains a small yellow die showing four and a large peach die showing four.,2,4 4,yellow peach,small large
+sample_03647.png,The image shows one large peach die with value two.,1,2,peach,large
+sample_03652.png,The image shows a medium blue die showing two and a large green die showing six.,2,2 6,blue green,medium large
+sample_03653.png,"The scene contains a medium purple die showing three, a medium peach die showing one and a large green die showing five.",3,3 1 5,purple peach green,medium medium large
+sample_03666.png,This picture contains 2 small blue dice displaying four and one.,2,4 1,blue blue,small small
+sample_03670.png,There are a small yellow die showing one and a small peach die showing six in the scene.,2,1 6,yellow peach,small small
+sample_03687.png,There is one small yellow die showing two.,1,2,yellow,small
+sample_03693.png,The scene contains a small red die showing three and a small purple die showing one.,2,3 1,red purple,small small
+sample_03695.png,The image shows a small yellow die showing six and a small red die showing six.,2,6 6,yellow red,small small
+sample_03699.png,"This picture contains a medium peach die showing four, a small green die showing two and a medium green die showing five.",3,4 2 5,peach green green,medium small medium
+sample_03703.png,There is one small red die showing two.,1,2,red,small
+sample_03713.png,"The image shows a small yellow die showing one, a medium red die showing one and a small purple die showing one.",3,1 1 1,yellow red purple,small medium small
+sample_03730.png,This picture contains a medium white die displaying four.,1,4,white,medium
+sample_03735.png,A medium blue die is shown with a value of six.,1,6,blue,medium
+sample_03736.png,"This picture contains a small peach die showing five, a small white die showing three and a large blue die showing six.",3,5 3 6,peach white blue,small small large
+sample_03745.png,There is one medium green die showing four.,1,4,green,medium
+sample_03749.png,"The image shows a large purple die showing one, a medium yellow die showing two and a large purple die showing six.",3,1 2 6,purple yellow purple,large medium large
+sample_03752.png,This picture contains a medium green die displaying two.,1,2,green,medium
+sample_03753.png,"The scene contains a medium peach die showing six, a medium green die showing one and a medium yellow die showing five.",3,6 1 5,peach green yellow,medium medium medium
+sample_03755.png,The image shows a small yellow die showing three and a small white die showing three.,2,3 3,yellow white,small small
+sample_03758.png,The image shows a medium peach die showing six and a medium red die showing one.,2,6 1,peach red,medium medium
+sample_03775.png,"The image shows a small white die showing one, a medium red die showing four and a small peach die showing two.",3,1 4 2,white red peach,small medium small
+sample_03778.png,"The scene contains a medium red die showing four, a large red die showing one and a small red die showing four.",3,4 1 4,red red red,medium large small
+sample_03779.png,The image shows one medium peach die with value six.,1,6,peach,medium
+sample_03780.png,A medium blue die is shown with a value of two.,1,2,blue,medium
+sample_03786.png,This picture contains a small green die showing five and a medium yellow die showing four.,2,5 4,green yellow,small medium
+sample_03792.png,"The scene contains a small purple die showing two, a large blue die showing two and a medium yellow die showing two.",3,2 2 2,purple blue yellow,small large medium
+sample_03805.png,This picture contains a small white die showing one and a medium peach die showing four.,2,1 4,white peach,small medium
+sample_03824.png,A medium green die is shown with a value of three.,1,3,green,medium
+sample_03825.png,"This picture contains a small purple die showing six, a large yellow die showing four and a medium red die showing three.",3,6 4 3,purple yellow red,small large medium
+sample_03826.png,There is one large white die showing two.,1,2,white,large
+sample_03833.png,The image shows a small green die showing five and a medium purple die showing two.,2,5 2,green purple,small medium
+sample_03840.png,"This picture contains a medium yellow die showing one, a medium peach die showing two and a medium white die showing four.",3,1 2 4,yellow peach white,medium medium medium
+sample_03843.png,The image shows a medium peach die showing six and a small green die showing six.,2,6 6,peach green,medium small
+sample_03853.png,The image shows one medium green die with value three.,1,3,green,medium
+sample_03854.png,"This picture contains a medium green die showing one, a medium yellow die showing one and a medium yellow die showing four.",3,1 1 4,green yellow yellow,medium medium medium
+sample_03856.png,This picture contains a large blue die displaying one.,1,1,blue,large
+sample_03858.png,The scene contains a small purple die showing one and a large blue die showing five.,2,1 5,purple blue,small large
+sample_03864.png,"The scene contains a medium green die showing three, a large red die showing one and a small white die showing six.",3,3 1 6,green red white,medium large small
+sample_03867.png,"This picture contains a small green die showing two, a large green die showing one and a large white die showing one.",3,2 1 1,green green white,small large large
+sample_03874.png,There are a large green die showing four and a small blue die showing five in the scene.,2,4 5,green blue,large small
+sample_03875.png,A small blue die is shown with a value of two.,1,2,blue,small
+sample_03886.png,The scene contains a small peach die showing four and a large blue die showing five.,2,4 5,peach blue,small large
+sample_03891.png,"This picture contains a large purple die showing three, a medium yellow die showing one and a small purple die showing four.",3,3 1 4,purple yellow purple,large medium small
+sample_03892.png,This picture contains a large peach die displaying two.,1,2,peach,large
+sample_03925.png,There is one medium green die showing one.,1,1,green,medium
+sample_03928.png,There is one large red die showing one.,1,1,red,large
+sample_03941.png,"The scene contains a large green die showing two, a large purple die showing two and a small red die showing one.",3,2 2 1,green purple red,large large small
+sample_03947.png,This picture contains a small white die showing four and a medium purple die showing four.,2,4 4,white purple,small medium
+sample_03955.png,The image shows one small green die with value six.,1,6,green,small
+sample_03973.png,The scene contains a large peach die showing two and a large blue die showing one.,2,2 1,peach blue,large large
+sample_03979.png,This picture contains a large peach die displaying one.,1,1,peach,large
+sample_03981.png,"There are a large purple die showing two, a medium yellow die showing three and a small yellow die showing three in the scene.",3,2 3 3,purple yellow yellow,large medium small
+sample_03999.png,The image shows a medium red die showing five and a medium green die showing two.,2,5 2,red green,medium medium
+sample_04007.png,This picture contains a small blue die showing two and a small purple die showing four.,2,2 4,blue purple,small small
+sample_04022.png,"The scene contains a large blue die showing three, a large green die showing three and a large blue die showing two.",3,3 3 2,blue green blue,large large large
+sample_04023.png,The image shows one small yellow die with value three.,1,3,yellow,small
+sample_04031.png,"There are a small yellow die showing three, a large purple die showing two and a small green die showing five in the scene.",3,3 2 5,yellow purple green,small large small
+sample_04033.png,"There are a medium green die showing three, a small purple die showing four and a large blue die showing six in the scene.",3,3 4 6,green purple blue,medium small large
+sample_04036.png,This picture contains a small white die displaying two.,1,2,white,small
+sample_04043.png,The image shows a large green die showing six and a medium blue die showing two.,2,6 2,green blue,large medium
+sample_04052.png,"The image shows a small peach die showing four, a small peach die showing five and a large purple die showing two.",3,4 5 2,peach peach purple,small small large
+sample_04089.png,A large red die is shown with a value of six.,1,6,red,large
+sample_04091.png,There is one medium purple die showing five.,1,5,purple,medium
+sample_04098.png,There is one large red die showing two.,1,2,red,large
+sample_04100.png,"The image shows a small white die showing five, a medium blue die showing three and a medium red die showing six.",3,5 3 6,white blue red,small medium medium
+sample_04102.png,"The scene contains a large purple die showing two, a small white die showing five and a large blue die showing six.",3,2 5 6,purple white blue,large small large
+sample_04108.png,"The scene contains a large green die showing five, a small peach die showing two and a small blue die showing four.",3,5 2 4,green peach blue,large small small
+sample_04109.png,"The scene contains a small blue die showing four, a small white die showing one and a medium white die showing two.",3,4 1 2,blue white white,small small medium
+sample_04113.png,The scene contains a small purple die showing two and a medium red die showing three.,2,2 3,purple red,small medium
+sample_04128.png,This picture contains 2 medium purple dice displaying three and four.,2,3 4,purple purple,medium medium
+sample_04142.png,"The scene contains a medium blue die showing four, a medium white die showing six and a large purple die showing two.",3,4 6 2,blue white purple,medium medium large
+sample_04148.png,There is one medium yellow die showing four.,1,4,yellow,medium
+sample_04161.png,There is one small peach die showing five.,1,5,peach,small
+sample_04163.png,There are a large purple die showing four and a medium peach die showing three in the scene.,2,4 3,purple peach,large medium
+sample_04165.png,"The image shows a medium peach die showing two, a large peach die showing six and a medium white die showing one.",3,2 6 1,peach peach white,medium large medium
+sample_04169.png,This picture contains a large white die displaying one.,1,1,white,large
+sample_04174.png,The image shows a medium blue die showing six and a small blue die showing one.,2,6 1,blue blue,medium small
+sample_04185.png,A medium purple die is shown with a value of one.,1,1,purple,medium
+sample_04189.png,A large blue die is shown with a value of four.,1,4,blue,large
+sample_04190.png,There are a large blue die showing six and a small yellow die showing two in the scene.,2,6 2,blue yellow,large small
+sample_04194.png,"This picture contains a small blue die showing four, a large red die showing five and a small red die showing four.",3,4 5 4,blue red red,small large small
+sample_04200.png,"There are a medium blue die showing three, a large red die showing four and a small white die showing three in the scene.",3,3 4 3,blue red white,medium large small
+sample_04205.png,"This picture contains a medium red die showing five, a large blue die showing six and a large green die showing four.",3,5 6 4,red blue green,medium large large
+sample_04206.png,The image shows a large red die showing three and a large purple die showing two.,2,3 2,red purple,large large
+sample_04221.png,"There are a large peach die showing six, a small peach die showing five and a large white die showing one in the scene.",3,6 5 1,peach peach white,large small large
+sample_04230.png,"This picture contains a small yellow die showing two, a small blue die showing six and a small red die showing four.",3,2 6 4,yellow blue red,small small small
+sample_04231.png,"The scene contains a small blue die showing five, a large green die showing five and a large yellow die showing three.",3,5 5 3,blue green yellow,small large large
+sample_04234.png,"The scene contains a medium red die showing three, a medium red die showing five and a small yellow die showing four.",3,3 5 4,red red yellow,medium medium small
+sample_04248.png,The image shows a large purple die showing five and a small white die showing two.,2,5 2,purple white,large small
+sample_04249.png,There is one medium peach die showing five.,1,5,peach,medium
+sample_04258.png,This picture contains a medium yellow die showing five and a small green die showing six.,2,5 6,yellow green,medium small
+sample_04262.png,There are a small red die showing five and a small white die showing six in the scene.,2,5 6,red white,small small
+sample_04268.png,There are a medium peach die showing four and a large peach die showing four in the scene.,2,4 4,peach peach,medium large
+sample_04274.png,The image shows a large red die showing five and a small purple die showing one.,2,5 1,red purple,large small
+sample_04279.png,The image shows a medium peach die showing four and a large blue die showing two.,2,4 2,peach blue,medium large
+sample_04284.png,"There are a large blue die showing five, a medium yellow die showing six and a medium green die showing six in the scene.",3,5 6 6,blue yellow green,large medium medium
+sample_04297.png,This picture contains a medium peach die displaying six.,1,6,peach,medium
+sample_04304.png,"This picture contains a small red die showing three, a small peach die showing five and a medium peach die showing two.",3,3 5 2,red peach peach,small small medium
+sample_04309.png,This picture contains a small white die showing six and a medium red die showing five.,2,6 5,white red,small medium
+sample_04312.png,"This picture contains a small purple die showing two, a medium yellow die showing four and a small purple die showing six.",3,2 4 6,purple yellow purple,small medium small
+sample_04319.png,This picture contains a medium yellow die displaying one.,1,1,yellow,medium
+sample_04329.png,This picture contains a large green die showing three and a small red die showing four.,2,3 4,green red,large small
+sample_04333.png,There is one medium yellow die showing six.,1,6,yellow,medium
+sample_04341.png,"The image shows a small yellow die showing one, a medium green die showing two and a medium peach die showing six.",3,1 2 6,yellow green peach,small medium medium
+sample_04347.png,The image shows one large peach die with value one.,1,1,peach,large
+sample_04357.png,A small purple die is shown with a value of two.,1,2,purple,small
+sample_04360.png,"The scene contains a large purple die showing six, a small white die showing six and a large peach die showing five.",3,6 6 5,purple white peach,large small large
+sample_04370.png,"There are a small blue die showing two, a large blue die showing six and a small purple die showing two in the scene.",3,2 6 2,blue blue purple,small large small
+sample_04373.png,This picture contains a medium white die showing six and a small yellow die showing five.,2,6 5,white yellow,medium small
+sample_04377.png,"There are a medium yellow die showing three, a large green die showing one and a small blue die showing six in the scene.",3,3 1 6,yellow green blue,medium large small
+sample_04385.png,A large green die is shown with a value of five.,1,5,green,large
+sample_04395.png,This picture contains a large white die displaying six.,1,6,white,large
+sample_04402.png,This picture contains a large yellow die displaying six.,1,6,yellow,large
+sample_04407.png,The scene contains a medium purple die showing two and a medium green die showing two.,2,2 2,purple green,medium medium
+sample_04409.png,There is one large blue die showing six.,1,6,blue,large
+sample_04417.png,The image shows a large red die showing five and a small green die showing two.,2,5 2,red green,large small
+sample_04429.png,"The image shows a small purple die showing two, a medium green die showing one and a medium green die showing two.",3,2 1 2,purple green green,small medium medium
+sample_04435.png,There is one medium yellow die showing three.,1,3,yellow,medium
+sample_04439.png,The image shows one small yellow die with value four.,1,4,yellow,small
+sample_04444.png,A large peach die is shown with a value of five.,1,5,peach,large
+sample_04468.png,This picture contains a large purple die showing two and a small red die showing three.,2,2 3,purple red,large small
+sample_04477.png,There is one medium blue die showing six.,1,6,blue,medium
+sample_04479.png,There are a small green die showing one and a medium green die showing four in the scene.,2,1 4,green green,small medium
+sample_04485.png,"The scene contains a small white die showing two, a medium white die showing one and a large yellow die showing one.",3,2 1 1,white white yellow,small medium large
+sample_04492.png,"The scene contains a small blue die showing three, a medium yellow die showing one and a medium peach die showing three.",3,3 1 3,blue yellow peach,small medium medium
+sample_04493.png,"There are a medium white die showing one, a medium red die showing four and a medium blue die showing one in the scene.",3,1 4 1,white red blue,medium medium medium
+sample_04507.png,The scene contains a small green die showing five and a small white die showing one.,2,5 1,green white,small small
+sample_04508.png,A small blue die is shown with a value of two.,1,2,blue,small
+sample_04516.png,This picture contains a large purple die displaying one.,1,1,purple,large
+sample_04529.png,The image shows one small peach die with value four.,1,4,peach,small
+sample_04534.png,There are a small purple die showing five and a large peach die showing four in the scene.,2,5 4,purple peach,small large
+sample_04540.png,There are a small white die showing four and a medium green die showing two in the scene.,2,4 2,white green,small medium
+sample_04547.png,"The scene contains a small green die showing three, a medium green die showing three and a medium white die showing two.",3,3 3 2,green green white,small medium medium
+sample_04551.png,"The scene contains a large green die showing one, a medium purple die showing six and a large blue die showing four.",3,1 6 4,green purple blue,large medium large
+sample_04556.png,A small blue die is shown with a value of five.,1,5,blue,small
+sample_04560.png,"This picture contains a small peach die showing two, a large peach die showing two and a small red die showing six.",3,2 2 6,peach peach red,small large small
+sample_04567.png,"The image shows a medium green die showing two, a small purple die showing three and a large red die showing three.",3,2 3 3,green purple red,medium small large
+sample_04574.png,The scene contains a large yellow die showing one and a small red die showing five.,2,1 5,yellow red,large small
+sample_04577.png,The scene contains a medium green die showing five and a small red die showing five.,2,5 5,green red,medium small
+sample_04583.png,"This picture contains a small red die showing four, a medium peach die showing three and a large blue die showing five.",3,4 3 5,red peach blue,small medium large
+sample_04594.png,The image shows a large green die showing three and a large purple die showing three.,2,3 3,green purple,large large
+sample_04598.png,There is one large green die showing five.,1,5,green,large
+sample_04601.png,"The image shows a small green die showing six, a large peach die showing three and a large green die showing six.",3,6 3 6,green peach green,small large large
+sample_04603.png,This picture contains a medium blue die displaying three.,1,3,blue,medium
+sample_04608.png,This picture contains a large white die displaying two.,1,2,white,large
+sample_04610.png,A medium white die is shown with a value of six.,1,6,white,medium
+sample_04616.png,"The image shows a small peach die showing five, a medium white die showing three and a small peach die showing three.",3,5 3 3,peach white peach,small medium small
+sample_04629.png,A medium white die is shown with a value of five.,1,5,white,medium
+sample_04631.png,"The image shows a large white die showing two, a medium green die showing five and a small blue die showing three.",3,2 5 3,white green blue,large medium small
+sample_04634.png,There is one small yellow die showing five.,1,5,yellow,small
+sample_04636.png,There are a large yellow die showing two and a medium red die showing five in the scene.,2,2 5,yellow red,large medium
+sample_04639.png,A medium blue die is shown with a value of six.,1,6,blue,medium
+sample_04657.png,A large white die is shown with a value of one.,1,1,white,large
+sample_04663.png,The image shows a medium peach die showing four and a medium white die showing two.,2,4 2,peach white,medium medium
+sample_04669.png,"The image shows a large yellow die showing one, a small yellow die showing one and a small green die showing two.",3,1 1 2,yellow yellow green,large small small
+sample_04681.png,This picture contains a medium purple die displaying three.,1,3,purple,medium
+sample_04684.png,"This picture contains a medium purple die showing six, a medium yellow die showing one and a medium yellow die showing three.",3,6 1 3,purple yellow yellow,medium medium medium
+sample_04685.png,"The image shows a large peach die showing five, a medium green die showing six and a medium blue die showing four.",3,5 6 4,peach green blue,large medium medium
+sample_04695.png,There are a small purple die showing two and a medium green die showing one in the scene.,2,2 1,purple green,small medium
+sample_04698.png,There is one large white die showing three.,1,3,white,large
+sample_04706.png,A large white die is shown with a value of one.,1,1,white,large
+sample_04713.png,There is one large yellow die showing three.,1,3,yellow,large
+sample_04730.png,The image shows a medium blue die showing five and a large blue die showing four.,2,5 4,blue blue,medium large
+sample_04735.png,There are a large red die showing one and a medium peach die showing two in the scene.,2,1 2,red peach,large medium
+sample_04736.png,There is one medium blue die showing three.,1,3,blue,medium
+sample_04751.png,The image shows a medium red die showing four and a small white die showing three.,2,4 3,red white,medium small
+sample_04760.png,This picture contains a small purple die displaying four.,1,4,purple,small
+sample_04762.png,The image shows a small purple die showing three and a large blue die showing six.,2,3 6,purple blue,small large
+sample_04768.png,This picture contains a small yellow die displaying one.,1,1,yellow,small
+sample_04776.png,This picture contains a medium white die displaying one.,1,1,white,medium
+sample_04782.png,This picture contains a medium purple die showing one and a medium green die showing six.,2,1 6,purple green,medium medium
+sample_04788.png,The image shows one small red die with value five.,1,5,red,small
+sample_04794.png,A small yellow die is shown with a value of five.,1,5,yellow,small
+sample_04816.png,This picture contains a large yellow die displaying three.,1,3,yellow,large
+sample_04818.png,"This picture contains a large white die showing one, a large blue die showing six and a large peach die showing five.",3,1 6 5,white blue peach,large large large
+sample_04830.png,"This picture contains a large purple die showing four, a medium peach die showing three and a small green die showing six.",3,4 3 6,purple peach green,large medium small
+sample_04835.png,The image shows one small purple die with value six.,1,6,purple,small
+sample_04845.png,"There are a large purple die showing five, a small purple die showing four and a large purple die showing six in the scene.",3,5 4 6,purple purple purple,large small large
+sample_04878.png,The image shows one medium peach die with value two.,1,2,peach,medium
+sample_04882.png,The image shows one medium green die with value six.,1,6,green,medium
+sample_04895.png,"There are a medium yellow die showing one, a medium red die showing two and a medium purple die showing three in the scene.",3,1 2 3,yellow red purple,medium medium medium
+sample_04900.png,This picture contains a small peach die showing one and a medium peach die showing six.,2,1 6,peach peach,small medium
+sample_04914.png,"There are a medium blue die showing three, a large peach die showing three and a medium peach die showing three in the scene.",3,3 3 3,blue peach peach,medium large medium
+sample_04920.png,"There are a medium yellow die showing two, a large red die showing one and a small green die showing six in the scene.",3,2 1 6,yellow red green,medium large small
+sample_04921.png,"There are a small peach die showing five, a medium blue die showing three and a small white die showing one in the scene.",3,5 3 1,peach blue white,small medium small
+sample_04925.png,"This picture contains a medium peach die showing six, a large green die showing three and a large green die showing four.",3,6 3 4,peach green green,medium large large
+sample_04929.png,"The image shows a medium yellow die showing two, a large blue die showing two and a medium green die showing one.",3,2 2 1,yellow blue green,medium large medium
+sample_04930.png,There is one small peach die showing one.,1,1,peach,small
+sample_04933.png,The scene contains a medium white die showing two and a large blue die showing one.,2,2 1,white blue,medium large
+sample_04942.png,The image shows a large red die showing six and a medium peach die showing two.,2,6 2,red peach,large medium
+sample_04946.png,"This picture contains a medium white die showing five, a large purple die showing six and a small white die showing five.",3,5 6 5,white purple white,medium large small
+sample_04963.png,The scene contains a large green die showing three and a large peach die showing three.,2,3 3,green peach,large large
+sample_04965.png,"This picture contains a medium purple die showing two, a small yellow die showing six and a medium yellow die showing three.",3,2 6 3,purple yellow yellow,medium small medium
+sample_04975.png,A medium purple die is shown with a value of one.,1,1,purple,medium
+sample_04982.png,This picture contains a large white die showing one and a large purple die showing six.,2,1 6,white purple,large large
+sample_04987.png,This picture contains a small white die displaying four.,1,4,white,small
+sample_04989.png,This picture contains a small blue die showing three and a medium peach die showing five.,2,3 5,blue peach,small medium
+sample_04998.png,This picture contains a large white die displaying one.,1,1,white,large
+sample_05014.png,This picture contains a medium peach die displaying one.,1,1,peach,medium
+sample_05018.png,This picture contains a small red die displaying three.,1,3,red,small
+sample_05025.png,This picture contains a medium peach die showing six and a medium yellow die showing two.,2,6 2,peach yellow,medium medium
+sample_05026.png,"This picture contains a medium green die showing three, a medium blue die showing three and a medium peach die showing four.",3,3 3 4,green blue peach,medium medium medium
+sample_05035.png,"The scene contains a small green die showing four, a large red die showing three and a large red die showing three.",3,4 3 3,green red red,small large large
+sample_05039.png,There are a large peach die showing four and a medium peach die showing six in the scene.,2,4 6,peach peach,large medium
+sample_05058.png,There is one medium peach die showing six.,1,6,peach,medium
+sample_05062.png,"The scene contains a large purple die showing one, a large white die showing four and a medium yellow die showing two.",3,1 4 2,purple white yellow,large large medium
+sample_05073.png,A medium red die is shown with a value of five.,1,5,red,medium
+sample_05079.png,The scene contains a large purple die showing four and a medium yellow die showing five.,2,4 5,purple yellow,large medium
+sample_05088.png,The image shows a large yellow die showing six and a large peach die showing six.,2,6 6,yellow peach,large large
+sample_05090.png,"There are a medium peach die showing five, a large red die showing three and a small red die showing four in the scene.",3,5 3 4,peach red red,medium large small
+sample_05091.png,There is one small red die showing three.,1,3,red,small
+sample_05094.png,The image shows one medium red die with value five.,1,5,red,medium
+sample_05099.png,"The image shows a large green die showing two, a large peach die showing four and a medium blue die showing five.",3,2 4 5,green peach blue,large large medium
+sample_05105.png,The image shows one small yellow die with value four.,1,4,yellow,small
+sample_05110.png,This picture contains a small green die showing six and a large blue die showing five.,2,6 5,green blue,small large
+sample_05114.png,"The image shows a small peach die showing two, a small yellow die showing five and a large white die showing four.",3,2 5 4,peach yellow white,small small large
+sample_05129.png,"The image shows a medium peach die showing four, a medium purple die showing three and a large white die showing three.",3,4 3 3,peach purple white,medium medium large
+sample_05135.png,The image shows a medium green die showing three and a medium purple die showing one.,2,3 1,green purple,medium medium
+sample_05150.png,This picture contains a large purple die showing one and a large yellow die showing four.,2,1 4,purple yellow,large large
+sample_05151.png,"This picture contains a medium white die showing three, a large yellow die showing four and a medium red die showing one.",3,3 4 1,white yellow red,medium large medium
+sample_05152.png,There are a medium peach die showing one and a medium white die showing three in the scene.,2,1 3,peach white,medium medium
+sample_05158.png,"The image shows a medium green die showing one, a small peach die showing three and a small white die showing three.",3,1 3 3,green peach white,medium small small
+sample_05173.png,The image shows one medium green die with value one.,1,1,green,medium
+sample_05174.png,This picture contains a large peach die showing two and a small red die showing one.,2,2 1,peach red,large small
+sample_05177.png,The image shows one large purple die with value three.,1,3,purple,large
+sample_05189.png,"The scene contains a large white die showing four, a medium purple die showing two and a medium purple die showing one.",3,4 2 1,white purple purple,large medium medium
+sample_05195.png,"The image shows a medium white die showing four, a small yellow die showing one and a small green die showing three.",3,4 1 3,white yellow green,medium small small
+sample_05197.png,This picture contains a small white die showing six and a small red die showing three.,2,6 3,white red,small small
+sample_05199.png,"The scene contains a medium yellow die showing three, a large white die showing one and a large blue die showing three.",3,3 1 3,yellow white blue,medium large large
+sample_05212.png,This picture contains a medium green die showing one and a medium purple die showing three.,2,1 3,green purple,medium medium
+sample_05213.png,"The image shows a medium yellow die showing three, a medium peach die showing one and a small red die showing two.",3,3 1 2,yellow peach red,medium medium small
+sample_05222.png,This picture contains a medium white die showing three and a large red die showing three.,2,3 3,white red,medium large
+sample_05226.png,The image shows one small red die with value five.,1,5,red,small
+sample_05227.png,"This picture contains a medium peach die showing three, a small purple die showing four and a small blue die showing three.",3,3 4 3,peach purple blue,medium small small
+sample_05229.png,There are a large purple die showing two and a small red die showing six in the scene.,2,2 6,purple red,large small
+sample_05246.png,"This picture contains a medium green die showing three, a small white die showing six and a large peach die showing six.",3,3 6 6,green white peach,medium small large
+sample_05249.png,"This picture contains a medium green die showing one, a large purple die showing six and a small yellow die showing three.",3,1 6 3,green purple yellow,medium large small
+sample_05251.png,"There are a large peach die showing three, a medium white die showing five and a medium red die showing four in the scene.",3,3 5 4,peach white red,large medium medium
+sample_05256.png,There are a medium red die showing six and a large green die showing four in the scene.,2,6 4,red green,medium large
+sample_05264.png,The scene contains a medium red die showing six and a large purple die showing five.,2,6 5,red purple,medium large
+sample_05269.png,This picture contains a large peach die displaying four.,1,4,peach,large
+sample_05270.png,A small peach die is shown with a value of four.,1,4,peach,small
+sample_05276.png,There are a medium peach die showing four and a medium red die showing four in the scene.,2,4 4,peach red,medium medium
+sample_05282.png,"This picture contains a large purple die showing one, a medium red die showing one and a small white die showing two.",3,1 1 2,purple red white,large medium small
+sample_05315.png,There are a medium red die showing four and a medium green die showing one in the scene.,2,4 1,red green,medium medium
+sample_05316.png,The scene contains a large green die showing one and a medium green die showing three.,2,1 3,green green,large medium
+sample_05320.png,The image shows one large white die with value six.,1,6,white,large
+sample_05334.png,"The scene contains a large blue die showing four, a large peach die showing one and a medium peach die showing five.",3,4 1 5,blue peach peach,large large medium
+sample_05335.png,The image shows a small white die showing five and a large red die showing four.,2,5 4,white red,small large
+sample_05336.png,"This picture contains a large white die showing five, a large green die showing six and a small blue die showing three.",3,5 6 3,white green blue,large large small
+sample_05344.png,This picture contains a large peach die displaying four.,1,4,peach,large
+sample_05346.png,This picture contains a medium yellow die showing two and a small red die showing six.,2,2 6,yellow red,medium small
+sample_05353.png,There are a medium white die showing one and a small green die showing three in the scene.,2,1 3,white green,medium small
+sample_05365.png,This picture contains a large white die showing two and a large purple die showing five.,2,2 5,white purple,large large
+sample_05377.png,There are 2 large green dice showing four and two.,2,4 2,green green,large large
+sample_05389.png,"This picture contains a large peach die showing two, a large white die showing two and a medium white die showing two.",3,2 2 2,peach white white,large large medium
+sample_05392.png,"This picture contains a small red die showing four, a large yellow die showing two and a large purple die showing two.",3,4 2 2,red yellow purple,small large large
+sample_05393.png,The image shows a large purple die showing six and a large white die showing five.,2,6 5,purple white,large large
+sample_05394.png,A medium white die is shown with a value of two.,1,2,white,medium
+sample_05400.png,"This picture contains a medium red die showing three, a large blue die showing two and a small blue die showing four.",3,3 2 4,red blue blue,medium large small
+sample_05403.png,"There are a medium red die showing one, a large blue die showing four and a large purple die showing three in the scene.",3,1 4 3,red blue purple,medium large large
+sample_05416.png,This picture contains a medium peach die displaying four.,1,4,peach,medium
+sample_05421.png,The image shows one medium green die with value six.,1,6,green,medium
+sample_05433.png,The image shows one large yellow die with value two.,1,2,yellow,large
+sample_05435.png,"The scene contains a small blue die showing three, a large yellow die showing four and a medium white die showing one.",3,3 4 1,blue yellow white,small large medium
+sample_05449.png,This picture contains a small blue die displaying four.,1,4,blue,small
+sample_05455.png,"The scene contains a small red die showing four, a medium purple die showing three and a medium red die showing four.",3,4 3 4,red purple red,small medium medium
+sample_05458.png,"The image shows a small blue die showing three, a medium white die showing three and a medium blue die showing five.",3,3 3 5,blue white blue,small medium medium
+sample_05459.png,"There are a medium green die showing one, a small white die showing four and a small peach die showing four in the scene.",3,1 4 4,green white peach,medium small small
+sample_05466.png,This picture contains a large green die displaying two.,1,2,green,large
+sample_05485.png,"The scene contains a medium blue die showing three, a small red die showing five and a large purple die showing five.",3,3 5 5,blue red purple,medium small large
+sample_05486.png,"The image shows a medium green die showing five, a small red die showing three and a medium yellow die showing one.",3,5 3 1,green red yellow,medium small medium
+sample_05492.png,The image shows a small yellow die showing five and a large yellow die showing six.,2,5 6,yellow yellow,small large
+sample_05496.png,The scene contains a large yellow die showing two and a medium blue die showing three.,2,2 3,yellow blue,large medium
+sample_05501.png,The image shows a medium yellow die showing six and a large yellow die showing six.,2,6 6,yellow yellow,medium large
+sample_05505.png,"The image shows a medium yellow die showing five, a small peach die showing five and a large peach die showing three.",3,5 5 3,yellow peach peach,medium small large
+sample_05548.png,"The image shows a large purple die showing one, a small white die showing six and a large yellow die showing three.",3,1 6 3,purple white yellow,large small large
+sample_05550.png,There are a large yellow die showing one and a large white die showing three in the scene.,2,1 3,yellow white,large large
+sample_05564.png,There is one small yellow die showing three.,1,3,yellow,small
+sample_05565.png,The scene contains a small green die showing six and a small blue die showing one.,2,6 1,green blue,small small
+sample_05568.png,The scene contains a small red die showing three and a small blue die showing two.,2,3 2,red blue,small small
+sample_05573.png,The image shows a medium yellow die showing one and a medium green die showing one.,2,1 1,yellow green,medium medium
+sample_05575.png,The image shows one large red die with value six.,1,6,red,large
+sample_05597.png,There is one small peach die showing one.,1,1,peach,small
+sample_05609.png,The image shows a large white die showing one and a large blue die showing one.,2,1 1,white blue,large large
+sample_05612.png,This picture contains a large yellow die showing three and a medium peach die showing one.,2,3 1,yellow peach,large medium
+sample_05614.png,This picture contains a medium blue die showing two and a large purple die showing six.,2,2 6,blue purple,medium large
+sample_05616.png,There are a small green die showing six and a large red die showing five in the scene.,2,6 5,green red,small large
+sample_05628.png,The image shows one large purple die with value four.,1,4,purple,large
+sample_05631.png,"There are a large peach die showing five, a medium yellow die showing six and a medium blue die showing one in the scene.",3,5 6 1,peach yellow blue,large medium medium
+sample_05632.png,There is one medium blue die showing five.,1,5,blue,medium
+sample_05650.png,"There are a large purple die showing five, a medium purple die showing six and a small red die showing two in the scene.",3,5 6 2,purple purple red,large medium small
+sample_05651.png,"This picture contains a medium red die showing five, a small peach die showing three and a small white die showing five.",3,5 3 5,red peach white,medium small small
+sample_05652.png,"The scene contains a large white die showing five, a medium purple die showing five and a medium white die showing six.",3,5 5 6,white purple white,large medium medium
+sample_05656.png,This picture contains a small yellow die displaying four.,1,4,yellow,small
+sample_05658.png,The image shows one small white die with value two.,1,2,white,small
+sample_05659.png,"There are a small yellow die showing two, a medium blue die showing five and a small red die showing two in the scene.",3,2 5 2,yellow blue red,small medium small
+sample_05661.png,"The scene contains a large purple die showing six, a large white die showing two and a large yellow die showing one.",3,6 2 1,purple white yellow,large large large
+sample_05667.png,"The image shows a medium red die showing five, a large white die showing six and a small purple die showing six.",3,5 6 6,red white purple,medium large small
+sample_05674.png,The scene contains a large red die showing one and a medium purple die showing one.,2,1 1,red purple,large medium
+sample_05677.png,A medium yellow die is shown with a value of four.,1,4,yellow,medium
+sample_05682.png,The image shows a small red die showing four and a large green die showing four.,2,4 4,red green,small large
+sample_05683.png,The scene contains a small yellow die showing five and a large peach die showing two.,2,5 2,yellow peach,small large
+sample_05691.png,This picture contains a medium white die showing six and a large white die showing two.,2,6 2,white white,medium large
+sample_05710.png,"There are a large green die showing five, a large green die showing six and a large purple die showing four in the scene.",3,5 6 4,green green purple,large large large
+sample_05714.png,"The image shows a medium yellow die showing four, a medium green die showing five and a large blue die showing four.",3,4 5 4,yellow green blue,medium medium large
+sample_05724.png,There are a medium yellow die showing one and a medium white die showing three in the scene.,2,1 3,yellow white,medium medium
+sample_05750.png,There are a medium blue die showing six and a small white die showing two in the scene.,2,6 2,blue white,medium small
+sample_05751.png,There is one small white die showing three.,1,3,white,small
+sample_05759.png,"The scene contains a medium yellow die showing four, a large red die showing two and a small blue die showing three.",3,4 2 3,yellow red blue,medium large small
+sample_05770.png,This picture contains a medium yellow die showing five and a large purple die showing four.,2,5 4,yellow purple,medium large
+sample_05772.png,"There are a large peach die showing five, a small yellow die showing one and a small peach die showing four in the scene.",3,5 1 4,peach yellow peach,large small small
+sample_05773.png,The image shows one large purple die with value two.,1,2,purple,large
+sample_05781.png,The image shows one small blue die with value five.,1,5,blue,small
+sample_05790.png,A small red die is shown with a value of three.,1,3,red,small
+sample_05793.png,This picture contains a large peach die showing three and a small blue die showing two.,2,3 2,peach blue,large small
+sample_05794.png,The scene contains a small red die showing two and a large red die showing two.,2,2 2,red red,small large
+sample_05797.png,This picture contains a small white die displaying three.,1,3,white,small
+sample_05802.png,There are a large white die showing six and a small purple die showing two in the scene.,2,6 2,white purple,large small
+sample_05807.png,This picture contains a medium white die displaying four.,1,4,white,medium
+sample_05817.png,The image shows a large yellow die showing five and a large white die showing two.,2,5 2,yellow white,large large
+sample_05819.png,There are a small peach die showing four and a medium peach die showing two in the scene.,2,4 2,peach peach,small medium
+sample_05820.png,There are a medium green die showing six and a medium yellow die showing six in the scene.,2,6 6,green yellow,medium medium
+sample_05825.png,"The scene contains a large purple die showing six, a small peach die showing one and a medium blue die showing one.",3,6 1 1,purple peach blue,large small medium
+sample_05844.png,This picture contains a large yellow die showing three and a large blue die showing two.,2,3 2,yellow blue,large large
+sample_05849.png,This picture contains a medium purple die showing five and a small green die showing one.,2,5 1,purple green,medium small
+sample_05851.png,This picture contains a small blue die showing one and a large green die showing six.,2,1 6,blue green,small large
+sample_05853.png,"This picture contains a small blue die showing four, a large red die showing two and a small peach die showing four.",3,4 2 4,blue red peach,small large small
+sample_05857.png,"The image shows a small red die showing six, a large blue die showing six and a large peach die showing three.",3,6 6 3,red blue peach,small large large
+sample_05872.png,This picture contains a large blue die showing four and a large green die showing two.,2,4 2,blue green,large large
+sample_05874.png,This picture contains a medium yellow die showing four and a large green die showing two.,2,4 2,yellow green,medium large
+sample_05876.png,This picture contains a large peach die displaying one.,1,1,peach,large
+sample_05877.png,A large red die is shown with a value of six.,1,6,red,large
+sample_05890.png,This picture contains a large purple die showing two and a large yellow die showing two.,2,2 2,purple yellow,large large
+sample_05902.png,This picture contains a medium green die displaying six.,1,6,green,medium
+sample_05910.png,The image shows a small blue die showing four and a large peach die showing one.,2,4 1,blue peach,small large
+sample_05913.png,"The scene contains a large green die showing four, a large peach die showing two and a medium purple die showing one.",3,4 2 1,green peach purple,large large medium
+sample_05939.png,A small white die is shown with a value of five.,1,5,white,small
+sample_05941.png,The scene contains a medium purple die showing two and a large white die showing one.,2,2 1,purple white,medium large
+sample_05944.png,There are 2 large purple dice showing two and five.,2,2 5,purple purple,large large
+sample_05948.png,"The scene contains a large blue die showing one, a small yellow die showing three and a small peach die showing three.",3,1 3 3,blue yellow peach,large small small
+sample_05952.png,The scene contains a large red die showing four and a small white die showing five.,2,4 5,red white,large small
+sample_05969.png,This picture contains a large purple die showing five and a large blue die showing six.,2,5 6,purple blue,large large
+sample_05973.png,"The image shows a small white die showing five, a medium green die showing two and a medium red die showing three.",3,5 2 3,white green red,small medium medium
+sample_05978.png,This picture contains a large peach die displaying four.,1,4,peach,large
+sample_05980.png,The image shows a small blue die showing two and a small peach die showing five.,2,2 5,blue peach,small small
+sample_05988.png,The image shows a small red die showing three and a medium purple die showing three.,2,3 3,red purple,small medium
+sample_05990.png,This picture contains a medium yellow die displaying two.,1,2,yellow,medium

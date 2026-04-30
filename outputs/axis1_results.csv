@@ -1,0 +1,4 @@
+Representation,Target Dim,Final Train Loss,Final Val Loss,Final Train Acc,Final Val Acc,Test Loss,Test Accuracy,Test Cosine,Interpretation
+One-hot,3238,8.039684,8.179133,0.001429,0.0,8.077539,0.0,,Very weak baseline; treating each full caption as a class makes the output space too sparse and hard to generalise.
+TF-IDF,178,0.003389,0.003358,,,0.003365,,0.631757,More stable than one-hot; lexical target space is easier to learn because related captions share words.
+SBERT,384,0.000542,0.000539,,,0.000539,,0.890472,Best overall result; dense semantic targets appear easiest for the image model to learn.
