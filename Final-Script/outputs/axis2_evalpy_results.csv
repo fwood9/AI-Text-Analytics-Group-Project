@@ -1,0 +1,4 @@
+Model,Count correct,Colours correct,Values correct,Fully correct,Cosine sim,BLEU
+CustomCNN,0.4989,0.2622,0.2578,0.1044,0.801,0.242
+ResNet-18,0.6233,0.5911,0.36,0.22,0.8725,0.3342
+EfficientNet-B0,0.68,0.7033,0.4367,0.2856,0.884,0.4037

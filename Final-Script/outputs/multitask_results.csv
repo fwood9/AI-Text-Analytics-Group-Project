@@ -1,0 +1,4 @@
+Model,Pretrained,Count Acc,Count F1,Value Acc,Value F1,Colour Acc,Colour F1,Size Acc,Size F1,Train Time(s)
+CustomCNN,No,1.0,1.0,0.4809,0.4583,0.3394,0.3112,0.6029,0.5887,611.9
+ResNet-18,Yes (ImageNet),1.0,1.0,0.6123,0.6101,0.5824,0.5817,0.675,0.6722,417.4
+EfficientNet-B0,Yes (ImageNet),1.0,1.0,0.5979,0.5972,0.5929,0.5926,0.6728,0.6718,506.3
