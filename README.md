@@ -2,7 +2,7 @@
 # Dice Image Captioning Project
 
 ## Project Overview
-
+The goal of our project is to evaluate different models’ respective abilities of mapping images of dice to a natural language description of them. The projects pipeline is split up into four distinct phases: data generation -> text representation -> CNN training -> evaluation and comparison. We synthetically create 6000 scenes of die with varying colours, sizes and face values to test different text representations (One-hot, TF-IDF and SBERT) and CNN architectures (custom CNN trained from scratch, ResNet-18 and EfficientNet-B0). 
 
 ## Dataset
 The dataset is generated automatically using a custom script. It includes variations in:
@@ -36,13 +36,6 @@ We evaluate the model using:
 1. Run `Data_generation.ipynb` to generate the dataset
 2. Run training notebooks or scripts in the repository
 3. Use `eval.py` to evaluate results
-
-## Team Contributions
-- Hongze: Dataset generation (image and text pipeline)
-- Sakshi: Evaluation framework, LLM comparison, report lead
-- Liang: Text representation experiments
-- Swetha: CNN architectures and training
-- Finn: Error analysis and report writing
 
 ## Notes
 Code is managed using a centralised workflow, where one team member is responsible for organising and uploading the final code to GitHub.
