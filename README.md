@@ -2,7 +2,7 @@
 # Dice Image Captioning Project
 
 ## Project Overview
-This project aims to build a neural network that can generate natural language descriptions for simple dice images. The dataset is synthetically generated to allow large-scale supervised learning.
+
 
 ## Dataset
 The dataset is generated automatically using a custom script. It includes variations in:
