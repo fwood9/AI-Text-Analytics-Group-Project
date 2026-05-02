@@ -14,7 +14,7 @@ The dataset is split into training, validation, and test sets.
 
 ## Project Structure
 - Data_generation.ipynb: generate images and corresponding text descriptions
-- finished_notebook.ipynb: main experiment pipeline
+- finished_notebook.ipynb: main experiment pipeline - Note to marker: Please download the .ipynb file as Git desktop won't show the script due to the size of the output. 
 - eval.py: shared evaluation functions
 - outputs/: experiment results, logs and figures
 - Working/: development notebooks and intermediate work
