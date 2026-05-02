@@ -4,14 +4,6 @@
 ## Project Overview
 The goal of our project is to evaluate different models’ respective abilities of mapping images of dice to a natural language description of them. The projects pipeline is split up into four distinct phases: data generation -> text representation -> CNN training -> evaluation and comparison. We synthetically create 6000 scenes of die with varying colours, sizes and face values to test different text representations (One-hot, TF-IDF and SBERT) and CNN architectures (custom CNN trained from scratch, ResNet-18 and EfficientNet-B0). 
 
-## Dataset
-The dataset is generated automatically using a custom script. It includes variations in:
-- Number of dice (1–3)
-- Dice values (1–6)
-- Colour, size, and rotation
-
-The dataset is split into training, validation, and test sets.
-
 ## Project Structure
 - Data_generation.ipynb: generate images and corresponding text descriptions
 - finished_notebook.ipynb: main experiment pipeline - Note to marker: Please download the .ipynb file as Git desktop won't show the script due to the size of the output. 
