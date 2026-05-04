@@ -1,0 +1,6 @@
+image,text,sym_num_dice,sym_values,sym_colours,sym_sizes,pred_zero_shot,pred_one_shot
+sample_00001.png,There is one medium yellow die showing six.,1,6,yellow,medium,,
+sample_00002.png,This picture contains a large yellow die displaying three.,1,3,yellow,large,,
+sample_00003.png,This picture contains a medium purple die displaying four.,1,4,purple,medium,,
+sample_00006.png,A large red die is shown with a value of six.,1,6,red,large,,
+sample_00015.png,This picture contains a large green die displaying six.,1,6,green,large,There is 1 medium light green die showing 6.,
